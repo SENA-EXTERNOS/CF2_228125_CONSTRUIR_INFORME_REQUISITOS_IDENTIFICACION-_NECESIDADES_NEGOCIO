@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="352" viewBox="0 0 505 352">
+  <defs>
+    <filter id="Rectángulo_299086" x="0" y="0" width="505" height="352" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" width="1" height="1" viewBox="-35.852 -231.414 1161.843 796.829">
+      <image preserveAspectRatio="xMidYMid slice" width="1090.139" height="334" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="Composite_Structure_Diagram" x="0" y="0" width="505" height="352" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_897737" data-name="Grupo 897737" transform="translate(3860 6261)">
+    <g id="Grupo_894213" data-name="Grupo 894213" transform="translate(-3851 -6257)">
+      <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Rectángulo_299086)">
+        <rect id="Rectángulo_299086-2" data-name="Rectángulo 299086" width="487" height="334" rx="10" transform="translate(9 4)" fill="#fdfdfd"/>
+      </g>
+    </g>
+    <g id="Grupo_894912" data-name="Grupo 894912" transform="translate(-3851 -6257)">
+      <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Composite_Structure_Diagram)">
+        <rect id="Composite_Structure_Diagram-2" data-name="Composite_Structure_Diagram" width="487" height="334" rx="10" transform="translate(9 4)" fill="url(#pattern)"/>
+      </g>
+    </g>
+  </g>
+</svg>

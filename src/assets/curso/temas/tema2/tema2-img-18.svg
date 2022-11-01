@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="458" height="319" viewBox="0 0 458 319">
+  <defs>
+    <filter id="Rectángulo_299086" x="0" y="0" width="458" height="319" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_897743" data-name="Grupo 897743" transform="translate(-877 -8902)">
+    <g id="Grupo_894244" data-name="Grupo 894244" transform="translate(886 8906)">
+      <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Rectángulo_299086)">
+        <rect id="Rectángulo_299086-2" data-name="Rectángulo 299086" width="440" height="301" rx="10" transform="translate(9 4)" fill="#fdfdfd"/>
+      </g>
+    </g>
+    <g id="Grupo_894963" data-name="Grupo 894963" transform="translate(0 2)">
+      <g id="Grupo_894962" data-name="Grupo 894962" transform="translate(4837 11493.316)">
+        <g id="Grupo_894931" data-name="Grupo 894931" transform="translate(-3841.413 -2409.573) rotate(-90)">
+          <g id="Grupo_894919" data-name="Grupo 894919" transform="translate(0 0)">
+            <g id="Grupo_894917" data-name="Grupo 894917" transform="translate(0 0)">
+              <line id="Línea_144" data-name="Línea 144" x1="23.089" transform="translate(21.073 71.448)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <line id="Línea_145" data-name="Línea 145" x2="19.669" transform="translate(2.651 1.36)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <line id="Línea_146" data-name="Línea 146" y1="70.911" transform="translate(21.725 0.964)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <path id="Polígono_5" data-name="Polígono 5" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, -1, 1, -0.017, 0.054, 3.144)" fill="#12263f"/>
+            </g>
+            <g id="Grupo_894918" data-name="Grupo 894918" transform="translate(0 82.87)">
+              <line id="Línea_144-2" data-name="Línea 144" x1="23.089" transform="translate(21.073 0.428)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <line id="Línea_145-2" data-name="Línea 145" x2="19.669" transform="translate(2.651 63.367)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <line id="Línea_146-2" data-name="Línea 146" y2="63.763" transform="translate(21.725)" fill="none" stroke="#12263f" stroke-width="2"/>
+              <path id="Polígono_5-2" data-name="Polígono 5" d="M1.544,0,3.088,3.254H0Z" transform="matrix(0.017, -1, 1, 0.017, 0, 64.67)" fill="#12263f"/>
+            </g>
+          </g>
+          <rect id="Rectángulo_301486" data-name="Rectángulo 301486" width="6.602" height="46.212" transform="translate(40.839 54.7)" fill="#0b5999"/>
+        </g>
+        <circle id="Elipse_6272" data-name="Elipse 6272" cx="7" cy="7" r="7" transform="translate(-3691 -2574.316)" fill="#12263f"/>
+        <g id="Grupo_894933" data-name="Grupo 894933" transform="translate(-3616.954 -2453.465)">
+          <g id="Grupo_879874" data-name="Grupo 879874" transform="translate(0 0)">
+            <path id="Trazado_604114" data-name="Trazado 604114" d="M1351.122,2924.06a4.67,4.67,0,1,1-4.67-4.67A4.67,4.67,0,0,1,1351.122,2924.06Z" transform="translate(-1340.685 -2918.294)" fill="#0b5999" stroke="#e9eef4" stroke-width="2"/>
+            <path id="Trazado_604115" data-name="Trazado 604115" d="M1340.033,2923.39a5.75,5.75,0,1,1,5.75-5.75A5.756,5.756,0,0,1,1340.033,2923.39Zm0-11.209a5.459,5.459,0,1,0,5.459,5.459A5.466,5.466,0,0,0,1340.033,2912.181Z" transform="translate(-1334.283 -2911.891)" fill="#0b5999" stroke="#0b5999" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Polígono_9" data-name="Polígono 9" transform="translate(-3690.658 -2541.353)" fill="none">
+          <path d="M6.13,0l6.13,6.6L6.13,13.2,0,6.6Z" stroke="none"/>
+          <path d="M 6.130207061767578 2.939228057861328 L 2.729280471801758 6.601761341094971 L 6.130207061767578 10.26429462432861 L 9.531133651733398 6.601761341094971 L 6.130207061767578 2.939228057861328 M 6.130207061767578 9.5367431640625e-07 L 12.26041698455811 6.601761341094971 L 6.130207061767578 13.20352172851562 L -2.86102294921875e-06 6.601761341094971 L 6.130207061767578 9.5367431640625e-07 Z" stroke="none" fill="#0b5999"/>
+        </g>
+        <g id="Grupo_894935" data-name="Grupo 894935" transform="translate(-3608.466 -2535.023) rotate(90)">
+          <line id="Línea_145-3" data-name="Línea 145" x1="25.555" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <line id="Línea_146-3" data-name="Línea 146" y1="66.344" transform="translate(0.595 0.964)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_5-3" data-name="Polígono 5" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 28.817, 0.057)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_894936" data-name="Grupo 894936" transform="translate(-3691.134 -2535.023) rotate(90)">
+          <line id="Línea_145-4" data-name="Línea 145" x1="25.555" transform="translate(0 72.292)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <line id="Línea_146-4" data-name="Línea 146" y2="72.688" transform="translate(0.595 0)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_5-4" data-name="Polígono 5" d="M1.544,0,3.088,3.254H0Z" transform="matrix(0.017, 1, -1, 0.017, 28.763, 70.508)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_894944" data-name="Grupo 894944" transform="translate(-3810.291 -2506.206)">
+          <g id="Rectángulo_301475" data-name="Rectángulo 301475" fill="#e9eef4" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+            <rect width="92.703" height="32.657" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="90.703" height="30.657" rx="3" fill="none"/>
+          </g>
+          <path id="Trazado_623630" data-name="Trazado 623630" d="M29.912.238H27.319v9.9l-2.937,2.932H.558v2.172l25.012-.027,4.342-5.077Z" transform="translate(-0.558 -0.013)" fill="#21cbae"/>
+        </g>
+        <g id="Grupo_894956" data-name="Grupo 894956" transform="translate(-3751.818 -2409.573)">
+          <g id="Rectángulo_301475-2" data-name="Rectángulo 301475" fill="#e9eef4" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+            <rect width="115.436" height="106.057" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="113.436" height="104.057" rx="3" fill="none"/>
+          </g>
+          <path id="Trazado_623630-2" data-name="Trazado 623630" d="M44.413.238H40.538V16.989l-4.388,4.96H.558v3.674l37.367-.046,6.487-8.588Z" transform="translate(-0.558 -0.013)" fill="#21cbae"/>
+        </g>
+        <g id="Grupo_894946" data-name="Grupo 894946" transform="translate(-3657.507 -2506.206)">
+          <g id="Rectángulo_301475-3" data-name="Rectángulo 301475" transform="translate(0)" fill="#e9eef4" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+            <rect width="92.703" height="32.657" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="90.703" height="30.657" rx="3" fill="none"/>
+          </g>
+          <path id="Trazado_623630-3" data-name="Trazado 623630" d="M29.912.238H27.319v9.9l-2.937,2.932H.558v2.172l25.012-.027,4.342-5.077Z" transform="translate(-0.558 -0.013)" fill="#21cbae"/>
+        </g>
+        <g id="Grupo_894945" data-name="Grupo 894945" transform="translate(-3682.814 -2558.91) rotate(90)">
+          <line id="Línea_291" data-name="Línea 291" x1="13.963" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_6" data-name="Polígono 6" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 16.614, 0.057)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_894948" data-name="Grupo 894948" transform="translate(-3762.821 -2474.602) rotate(90)">
+          <line id="Línea_291-2" data-name="Línea 291" x1="13.963" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_6-2" data-name="Polígono 6" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 16.614, 0.057)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_894947" data-name="Grupo 894947" transform="translate(-3610.037 -2473.548) rotate(90)">
+          <line id="Línea_291-3" data-name="Línea 291" x1="13.963" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_6-3" data-name="Polígono 6" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 16.614, 0.057)" fill="#12263f"/>
+        </g>
+        <g id="Rectángulo_301496" data-name="Rectángulo 301496" transform="translate(-3739.558 -2376.89)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+          <rect width="38.946" height="21.095" rx="5" stroke="none"/>
+          <rect x="1" y="1" width="36.946" height="19.095" rx="4" fill="none"/>
+        </g>
+        <line id="Línea_297" data-name="Línea 297" y2="42.44" transform="translate(-3720.224 -2355.67)" fill="none" stroke="#afafaf" stroke-width="1"/>
+        <g id="Rectángulo_301497" data-name="Rectángulo 301497" transform="translate(-3723.525 -2343.881)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="1">
+          <rect width="6.602" height="15.437" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="5.602" height="14.437" rx="1.5" fill="none"/>
+        </g>
+        <g id="Grupo_894957" data-name="Grupo 894957" transform="translate(-3688.63 -2376.89)">
+          <g id="Rectángulo_301491" data-name="Rectángulo 301491" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+            <rect width="38.946" height="21.095" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="36.946" height="19.095" rx="4" fill="none"/>
+          </g>
+          <line id="Línea_296" data-name="Línea 296" y2="42.44" transform="translate(19.334 21.22)" fill="none" stroke="#afafaf" stroke-width="1"/>
+          <g id="Rectángulo_301492" data-name="Rectángulo 301492" transform="translate(16.033 33.009)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="1">
+            <rect width="6.602" height="15.437" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="5.602" height="14.437" rx="1.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_894958" data-name="Grupo 894958" transform="translate(-3715.509 -2338.538)">
+          <line id="Línea_293" data-name="Línea 293" x1="40.197" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="1"/>
+          <path id="Polígono_8" data-name="Polígono 8" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 42.848, 0.057)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_894960" data-name="Grupo 894960" transform="translate(-3721.639 -2353.313)">
+          <g id="Grupo_894952" data-name="Grupo 894952">
+            <g id="Rectángulo_301493" data-name="Rectángulo 301493" transform="translate(-0.361 -0.004)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301494" data-name="Rectángulo 301494" transform="translate(-0.361 3.996)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301495" data-name="Rectángulo 301495" transform="translate(-0.361 7.996)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect id="fill" width="3" stroke="none"/>
+              <path d="M0,-0.49998999999479565h3M2.5,0v0.000010000005204346962M3,0.5h-3M0.5,0.000010000005204346962v-0.000010000005204346962" fill="none" clip-path="url(#clip)"/>
+            </g>
+          </g>
+          <g id="Grupo_894953" data-name="Grupo 894953" transform="translate(0 27.35)">
+            <g id="Rectángulo_301493-2" data-name="Rectángulo 301493" transform="translate(-0.361 -0.354)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301494-2" data-name="Rectángulo 301494" transform="translate(-0.361 3.646)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301495-2" data-name="Rectángulo 301495" transform="translate(-0.361 7.646)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_894961" data-name="Grupo 894961" transform="translate(-3898 -2409.573)">
+          <g id="Grupo_894949" data-name="Grupo 894949">
+            <g id="Rectángulo_301475-4" data-name="Rectángulo 301475" transform="translate(0)" fill="#e9eef4" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+              <rect width="115.436" height="106.057" rx="4" stroke="none"/>
+              <rect x="1" y="1" width="113.436" height="104.057" rx="3" fill="none"/>
+            </g>
+            <path id="Trazado_623630-4" data-name="Trazado 623630" d="M44.413.238H40.538V16.989l-4.388,4.96H.558v3.674l37.367-.046,6.487-8.588Z" transform="translate(-0.558 -0.013)" fill="#21cbae"/>
+          </g>
+          <g id="Rectángulo_301488" data-name="Rectángulo 301488" transform="translate(12.26 32.683)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+            <rect width="38.946" height="21.095" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="36.946" height="19.095" rx="4" fill="none"/>
+          </g>
+          <line id="Línea_295" data-name="Línea 295" y2="42.44" transform="translate(31.594 53.903)" fill="none" stroke="#afafaf" stroke-width="1"/>
+          <g id="Rectángulo_301490" data-name="Rectángulo 301490" transform="translate(28.293 65.692)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="1">
+            <rect width="6.602" height="15.437" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="5.602" height="14.437" rx="1.5" fill="none"/>
+          </g>
+          <g id="Grupo_894950" data-name="Grupo 894950" transform="translate(63.188 32.683)">
+            <g id="Rectángulo_301491-2" data-name="Rectángulo 301491" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+              <rect width="38.946" height="21.095" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="36.946" height="19.095" rx="4" fill="none"/>
+            </g>
+            <line id="Línea_296-2" data-name="Línea 296" y2="42.44" transform="translate(19.334 21.22)" fill="none" stroke="#afafaf" stroke-width="1"/>
+            <g id="Rectángulo_301492-2" data-name="Rectángulo 301492" transform="translate(16.033 33.009)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="1">
+              <rect width="6.602" height="15.437" rx="2" stroke="none"/>
+              <rect x="0.5" y="0.5" width="5.602" height="14.437" rx="1.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_894951" data-name="Grupo 894951" transform="translate(36.31 71.036)">
+            <line id="Línea_293-2" data-name="Línea 293" x1="40.197" transform="translate(0 1.36)" fill="none" stroke="#12263f" stroke-width="1"/>
+            <path id="Polígono_8-2" data-name="Polígono 8" d="M1.544,0,3.088,3.254H0Z" transform="matrix(-0.017, 1, -1, -0.017, 42.848, 0.057)" fill="#12263f"/>
+          </g>
+          <g id="Grupo_894954" data-name="Grupo 894954" transform="translate(30.179 56.261)">
+            <g id="Grupo_894952-2" data-name="Grupo 894952">
+              <g id="Rectángulo_301493-3" data-name="Rectángulo 301493" transform="translate(-0.18 -0.004)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301494-3" data-name="Rectángulo 301494" transform="translate(-0.18 3.996)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301495-3" data-name="Rectángulo 301495" transform="translate(-0.18 7.996)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect id="fill-2" width="3" stroke="none"/>
+                <path d="M0,-0.49998999999479565h3M2.5,0v0.000010000005204346962M3,0.5h-3M0.5,0.000010000005204346962v-0.000010000005204346962" fill="none" clip-path="url(#clip-2)"/>
+              </g>
+            </g>
+            <g id="Grupo_894953-2" data-name="Grupo 894953" transform="translate(0 27.35)">
+              <g id="Rectángulo_301493-4" data-name="Rectángulo 301493" transform="translate(-0.18 -0.354)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301494-4" data-name="Rectángulo 301494" transform="translate(-0.18 3.646)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301495-4" data-name="Rectángulo 301495" transform="translate(-0.18 7.646)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_894955" data-name="Grupo 894955" transform="translate(81.107 57.204)">
+            <g id="Grupo_894952-3" data-name="Grupo 894952">
+              <g id="Rectángulo_301493-5" data-name="Rectángulo 301493" transform="translate(-0.107 0.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301494-5" data-name="Rectángulo 301494" transform="translate(-0.107 4.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301495-5" data-name="Rectángulo 301495" transform="translate(-0.107 7.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+            </g>
+            <g id="Grupo_894953-3" data-name="Grupo 894953" transform="translate(0 27.35)">
+              <g id="Rectángulo_301493-6" data-name="Rectángulo 301493" transform="translate(-0.107 -0.297)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301494-6" data-name="Rectángulo 301494" transform="translate(-0.107 3.703)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+              <g id="Rectángulo_301495-6" data-name="Rectángulo 301495" transform="translate(-0.107 7.703)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+                <rect width="3" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="2" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_894959" data-name="Grupo 894959" transform="translate(-3670.711 -2352.369)">
+          <g id="Grupo_894952-4" data-name="Grupo 894952" transform="translate(0)">
+            <g id="Rectángulo_301493-7" data-name="Rectángulo 301493" transform="translate(-0.289 0.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301494-7" data-name="Rectángulo 301494" transform="translate(-0.289 4.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301495-7" data-name="Rectángulo 301495" transform="translate(-0.289 7.053)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_894953-4" data-name="Grupo 894953" transform="translate(0 27.35)">
+            <g id="Rectángulo_301493-8" data-name="Rectángulo 301493" transform="translate(-0.289 -0.297)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301494-8" data-name="Rectángulo 301494" transform="translate(-0.289 3.703)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+            <g id="Rectángulo_301495-8" data-name="Rectángulo 301495" transform="translate(-0.289 7.703)" fill="#fff" stroke="#e9eef4" stroke-width="1">
+              <rect width="3" height="1" stroke="none"/>
+              <rect x="0.5" y="0.5" width="2" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

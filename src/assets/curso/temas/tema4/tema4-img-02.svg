@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="352" viewBox="0 0 505 352">
+  <defs>
+    <filter id="Rectángulo_299086" x="0" y="0" width="505" height="352" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_897737" data-name="Grupo 897737" transform="translate(-851 -739)">
+    <g id="Grupo_894371" data-name="Grupo 894371" transform="translate(860 743)">
+      <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Rectángulo_299086)">
+        <rect id="Rectángulo_299086-2" data-name="Rectángulo 299086" width="487" height="334" rx="10" transform="translate(9 4)" fill="#fdfdfd"/>
+      </g>
+    </g>
+    <g id="Grupo_896435" data-name="Grupo 896435" transform="translate(-1687.315 11459)">
+      <g id="Grupo_896434" data-name="Grupo 896434" transform="translate(2745.35 -10503)">
+        <line id="Línea_145" data-name="Línea 145" x1="24.243" transform="translate(0.375 21.622) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_299" data-name="Línea 299" x1="24.243" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_300" data-name="Línea 300" y1="45.865" transform="translate(91.302)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <path id="Trazado_624089" data-name="Trazado 624089" d="M0,0V182.6" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+      </g>
+      <g id="Grupo_896433" data-name="Grupo 896433" transform="translate(2699.165 -10469.323)">
+        <g id="Grupo_894944" data-name="Grupo 894944" transform="translate(0 0.001)">
+          <g id="Rectángulo_301475" data-name="Rectángulo 301475" fill="#c3cfd9" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_896426" data-name="Grupo 896426" transform="translate(93.916 0)">
+          <g id="Rectángulo_301475-2" data-name="Rectángulo 301475" fill="#c3cfd9" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_896427" data-name="Grupo 896427" transform="translate(187.831 0)">
+          <g id="Rectángulo_301475-3" data-name="Rectángulo 301475" fill="#c3cfd9" stroke="#0b5999" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <text id="Actividad" transform="translate(1.599 7.589)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.829" y="13">Actividad</tspan></text>
+        <text id="Actividad-2" data-name="Actividad" transform="translate(95.514 7.589)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.829" y="13">Actividad</tspan></text>
+        <text id="Actividad-3" data-name="Actividad" transform="translate(189.43 7.589)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.829" y="13">Actividad</tspan></text>
+      </g>
+      <g id="Grupo_896429" data-name="Grupo 896429" transform="translate(2653.5 -10618.734)">
+        <line id="Línea_145-2" data-name="Línea 145" x1="24.243" transform="translate(0.375 21.622) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_299-2" data-name="Línea 299" x1="24.243" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_300-2" data-name="Línea 300" y1="45.865" transform="translate(91.302)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <path id="Trazado_624089-2" data-name="Trazado 624089" d="M0,0V182.6" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+      </g>
+      <g id="Grupo_896431" data-name="Grupo 896431" transform="translate(2654.448 -10564.661)">
+        <line id="Línea_145-3" data-name="Línea 145" x1="24.243" transform="translate(0.375 21.622) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_299-3" data-name="Línea 299" x1="24.243" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <line id="Línea_300-3" data-name="Línea 300" y1="45.865" transform="translate(91.302 0)" fill="none" stroke="#12263f" stroke-width="1"/>
+        <path id="Trazado_624089-3" data-name="Trazado 624089" d="M0,0V182.6" transform="translate(182.603 22.187) rotate(90)" fill="none" stroke="#12263f" stroke-width="1"/>
+      </g>
+      <g id="Grupo_896424" data-name="Grupo 896424" transform="translate(2698.086 -10660)">
+        <g id="Rectángulo_301475-4" data-name="Rectángulo 301475" fill="#e6cbd4" stroke="#ef3c79" stroke-linecap="round" stroke-width="2">
+          <rect width="96.129" height="52.3" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="94.129" height="50.3" rx="3" fill="none"/>
+        </g>
+      </g>
+      <text id="Función_o_Macroproceso" data-name="Función o Macroproceso" transform="translate(2701 -10655)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="18.7" y="13">Función o </tspan><tspan x="6.22" y="37">Macroproceso</tspan></text>
+      <g id="Grupo_896430" data-name="Grupo 896430" transform="translate(2607.315 -10582.211)">
+        <g id="Grupo_896428" data-name="Grupo 896428" transform="translate(0)">
+          <g id="Grupo_894944-2" data-name="Grupo 894944" transform="translate(0 0.001)">
+            <g id="Rectángulo_301475-5" data-name="Rectángulo 301475" fill="#c7e0dc" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+              <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+              <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_896426-2" data-name="Grupo 896426" transform="translate(93.916 0)">
+            <g id="Rectángulo_301475-6" data-name="Rectángulo 301475" fill="#c7e0dc" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+              <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+              <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_896427-2" data-name="Grupo 896427" transform="translate(187.831 0)">
+            <g id="Rectángulo_301475-7" data-name="Rectángulo 301475" fill="#c7e0dc" stroke="#21cbae" stroke-linecap="round" stroke-width="2">
+              <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+              <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <text id="Proceso" transform="translate(1.685 7.211)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="19.805" y="13">Proceso</tspan></text>
+        <text id="Proceso-2" data-name="Proceso" transform="translate(95.685 7.211)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="19.805" y="13">Proceso</tspan></text>
+        <text id="Proceso-3" data-name="Proceso" transform="translate(189.685 7.211)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="19.805" y="13">Proceso</tspan></text>
+      </g>
+      <g id="Grupo_896432" data-name="Grupo 896432" transform="translate(2608.264 -10522.446)">
+        <g id="Grupo_894944-3" data-name="Grupo 894944" transform="translate(0 0.001)">
+          <g id="Rectángulo_301475-8" data-name="Rectángulo 301475" fill="#e8e0c9" stroke="#fecb2f" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_896426-3" data-name="Grupo 896426" transform="translate(93.916 0)">
+          <g id="Rectángulo_301475-9" data-name="Rectángulo 301475" fill="#e8e0c9" stroke="#fecb2f" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_896427-3" data-name="Grupo 896427" transform="translate(187.831 0)">
+          <g id="Rectángulo_301475-10" data-name="Rectángulo 301475" fill="#e8e0c9" stroke="#fecb2f" stroke-linecap="round" stroke-width="2">
+            <rect width="87.942" height="30.98" rx="4" stroke="none"/>
+            <rect x="1" y="1" width="85.942" height="28.98" rx="3" fill="none"/>
+          </g>
+        </g>
+        <text id="Actividad-4" data-name="Actividad" transform="translate(1.736 7.445)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.614" y="13">Actividad</tspan></text>
+        <text id="Actividad-5" data-name="Actividad" transform="translate(95.736 7.445)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.614" y="13">Actividad</tspan></text>
+        <text id="Actividad-6" data-name="Actividad" transform="translate(189.736 7.445)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.614" y="13">Actividad</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

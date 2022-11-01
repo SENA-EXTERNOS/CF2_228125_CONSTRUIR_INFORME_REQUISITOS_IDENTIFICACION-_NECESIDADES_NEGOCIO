@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1207.316" height="255.458" viewBox="0 0 1207.316 255.458">
+  <defs>
+    <filter id="Trazado_622260" x="261" y="58.742" width="298.895" height="136.781" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_622261" x="0" y="58.742" width="298.895" height="136.781" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_6193" x="966.316" y="9.742" width="241" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_622262" x="598.99" y="0" width="159.674" height="106.893" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_622263" x="741.166" y="6.419" width="106.893" height="159.67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_622264" x="681.973" y="148.566" width="159.666" height="106.892" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_622265" x="573.574" y="89.378" width="106.892" height="159.666" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_894069" data-name="Grupo 894069" transform="translate(-185.684 -5520.671)">
+    <g transform="matrix(1, 0, 0, 1, 185.68, 5520.67)" filter="url(#Trazado_622260)">
+      <path id="Trazado_622260-2" data-name="Trazado 622260" d="M272.525,298.725l30.341,57.512-30.254,57.268H517.88l29.967-57.338L517.88,298.725Z" transform="translate(0.79 -231.98)" fill="#fecb2f" stroke="#fff" stroke-width="4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 185.68, 5520.67)" filter="url(#Trazado_622261)">
+      <path id="Trazado_622261-2" data-name="Trazado 622261" d="M272.525,298.725l30.341,57.512-30.254,57.268H517.88l29.967-57.338L517.88,298.725Z" transform="translate(-260.21 -231.98)" fill="#98b4ca" stroke="#fff" stroke-width="4"/>
+    </g>
+    <g id="Grupo_894067" data-name="Grupo 894067" transform="translate(662.782 5238.185)">
+      <path id="Trazado_622255" data-name="Trazado 622255" d="M433.382,290.229l-21.164,58.14,21.251,58.367h42.415Z" transform="translate(0 0)" fill="#ef3c79"/>
+      <path id="Trazado_622256" data-name="Trazado 622256" d="M433.382,423.747l-21.164-58.133,21.251-58.36h42.415Z" transform="translate(0 98.481)" fill="#bf3060"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 185.68, 5520.67)" filter="url(#Elipse_6193)">
+      <g id="Elipse_6193-2" data-name="Elipse 6193" transform="translate(975.32 12.74)" fill="#0b5999" stroke="#fff" stroke-width="8">
+        <circle cx="111.5" cy="111.5" r="111.5" stroke="none"/>
+        <circle cx="111.5" cy="111.5" r="107.5" fill="none"/>
+      </g>
+    </g>
+    <text id="PUESTA_EN_MARCHA" data-name="PUESTA EN MARCHA" transform="translate(1186 5617.413)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="33.854" y="21">PUESTA EN </tspan><tspan x="43.912" y="48">MARCHA</tspan></text>
+    <g id="Grupo_894068" data-name="Grupo 894068" transform="translate(216.793 5251.607)">
+      <g transform="matrix(1, 0, 0, 1, -31.11, 269.06)" filter="url(#Trazado_622262)">
+        <path id="Trazado_622262-2" data-name="Trazado 622262" d="M697.1,319.51l-60.91-40.7v16.44H594.409c-18.439,0-33.385,10.066-33.385,22.485v38.282c2.283-7,11.539-12.236,22.619-12.236h52.545v16.436Z" transform="translate(48.97 -269.06)" fill="#21cbae" stroke="#fff" stroke-width="4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -31.11, 269.06)" filter="url(#Trazado_622263)">
+        <path id="Trazado_622263-2" data-name="Trazado 622263" d="M637.088,416.025l40.7-60.91H661.352V313.337h0c0-18.435-10.066-33.382-22.481-33.382H600.585c7,2.284,12.24,11.536,12.24,22.619v52.541H596.38Z" transform="translate(157.53 -265.54)" fill="#1aa28b" stroke="#fff" stroke-width="4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -31.11, 269.06)" filter="url(#Trazado_622264)">
+        <path id="Trazado_622264-2" data-name="Trazado 622264" d="M581.8,356.013l60.914,40.7V380.277H684.5c18.435,0,33.374-10.066,33.374-22.485V319.51c-2.279,7-11.536,12.236-22.607,12.236H642.717v-16.44Z" transform="translate(112.77 -157)" fill="#21cbae" stroke="#fff" stroke-width="4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -31.11, 269.06)" filter="url(#Trazado_622265)">
+        <path id="Trazado_622265-2" data-name="Trazado 622265" d="M595.911,300.729l-40.7,60.91h16.44v41.771h0c0,18.439,10.066,33.386,22.481,33.386h38.286c-7-2.284-12.24-11.536-12.24-22.611V361.639h16.44Z" transform="translate(31.11 -201.75)" fill="#1aa28b" stroke="#fff" stroke-width="4"/>
+      </g>
+    </g>
+    <text id="_1_PLANTEAMIENTO" data-name="1 
+PLANTEAMIENTO" transform="translate(244 5614.413)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="86.209" y="21">1 </tspan><tspan x="9.964" y="48">PLANTEAMIENTO</tspan></text>
+    <text id="ITERACIÓN" transform="translate(835 5633.413)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="10.242" y="21">ITERACIÓN</tspan></text>
+    <text id="_2_REQUERIMIENTOS_PRIORIZADOS" data-name="2
+REQUERIMIENTOS PRIORIZADOS" transform="translate(495 5603.413)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="95.709" y="21">2</tspan><tspan x="16.964" y="48">REQUERIMIENTOS </tspan><tspan x="36.402" y="75">PRIORIZADOS</tspan></text>
+  </g>
+</svg>
