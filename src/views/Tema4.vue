@@ -36,7 +36,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-03.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="03").margin-top-txt-02
+            .number(data-number="03").margin-top-txt-03
               h4.ps-4 Modelado del proceso
               p.ps-4.mb-0 Engloba la creación de diagramas de flujo de procesos a través de los requerimientos del #[i software]. Existen muchas herramientas de modelado de procesos, cada una de ellas con sus propias reglas y símbolos. Los procesos se inician por eventos y pueden incluir actividades manuales, automatizadas o combinación entre ambas; cuando los procesos son grandes y complejos, es necesario desglosarlos en componentes (subprocesos). La relación entre la gerencia de proyectos y los diagramas de flujo es necesaria para el éxito.
           .col-6.col-lg-6
@@ -44,7 +44,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-04.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="04").margin-top-txt-02
+            .number(data-number="04").margin-top-txt-04
               h4.ps-4 Modelado de dominio
               p.ps-4.mb-0 Consiste en examinar el #[i software] o sistemas relacionados en un dominio, con el fin de descubrir las partes comunes y las partes que los diferencian. Un modelo de dominio abarca diagramas conceptuales que comprenden tanto el comportamiento de un sistema como el de sus datos. Un tipo de modelo de dominio son los diagramas de funcionalidades, que representan de forma “compacta” los sistemas o aplicaciones en términos de sus características. 
           .col-6.col-lg-6
@@ -52,7 +52,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-05.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="05").margin-top-txt-02
+            .number(data-number="05").margin-top-txt-05
               h4.ps-4 Caso de uso
               p.ps-4.mb-0 Es una secuencia de intercambio entre un sistema y/o un servicio. Además, es una de las técnicas con mayor expansión para detallar el comportamiento de un sistema. También proporciona un formato estructurado y simple que puede ser divulgado entre desarrolladores y usuarios, además de implementarse para el análisis de los requerimientos de #[i software]. Son importantes en sistemas informáticos basados en la funcionalidad, que se van a ejecutar en sistemas orientados a objetos y con UML. 
           .col-6.col-lg-6
@@ -60,7 +60,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-06.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="06").texto-small.margin-top-txt-03
+            .number(data-number="06").texto-small.margin-top-txt-06
               h4.ps-4 #[i Checklist]
               p.ps-4.mb-0 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[i software]] y que son mostradas de forma escrita. Por ejemplo:
               ul.lista-ul--color.ps-3
@@ -85,7 +85,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-07.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="07").margin-top-txt-03
+            .number(data-number="07").margin-top-txt-07
               h4.ps-4 Inspección
               p.ps-4.mb-4 Es la revisión no invasiva de los requerimientos de #[i software]. Por ejemplo:
               ul.lista-ul--color.ps-3
@@ -106,7 +106,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-08.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="08").margin-top-txt-02
+            .number(data-number="08").margin-top-txt-08
               h4.ps-4 Prototipos
               p.ps-4.mb-0 Consiste en generar una representación visual (interfaz gráfica con el usuario) de los requerimientos de #[i software]. Es una herramienta importante para validar con los clientes, usuarios e interesados de un proyecto debido a que el diseño debe corresponder con los requerimientos de software. Además, permite a usuarios y desarrolladores comprender mejor los requerimientos, determinar cuáles son deseables y cuáles indispensables, de esta manera poder identificar los riesgos de forma temprana. La creación de prototipos conlleva a generar mucha comunicación entre usuarios y desarrolladores.
           .col-6.col-lg-6
@@ -118,7 +118,7 @@
         .col-lg-1 
           figure
             img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-02.svg').tema4-decorativa-02
-        .col-lg-10 
+        .col-lg-11 
           p #[b ERS]
 
       

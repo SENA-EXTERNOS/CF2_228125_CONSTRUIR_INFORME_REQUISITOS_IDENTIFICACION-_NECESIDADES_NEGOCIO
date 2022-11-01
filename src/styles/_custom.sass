@@ -215,11 +215,22 @@
 
   .acordion__activo .acordion__titulo h3   
     font-size: 0
+  
+.texto-acordionA-1
+  width: 37%
+  margin-left: 4%
+  @media (max-width: 500px)  
+    left: 0
+    width: 100%
+
+.img-acordionA-1
+  margin-left: 8%
+
 
 //tema 3
 
 .bloque-img-tema1 
-  left: 522px
+  left: 50%
   @media (max-width: 500px)  
     left: 0
 
@@ -236,7 +247,7 @@
   width: 15% 
   z-index: 1
   @media (max-width:500px) 
-    top: 29%
+    top: 31%
     right: 80%
     width: 20% 
 
@@ -268,7 +279,14 @@
     background: linear-gradient(90deg, rgba(32,56,81,1) 0%, rgba(60,108,155,1) 93%)
 
 .img-infografica-b__modal
+  position: relative
+  left: 31%
+  width: 43%
+  border-radius: 15px
   background-color: #FECB2F
+  @media (max-width:500px) 
+    width: 100%
+    left: 0px
 
 .img-infografica-b__modal__contenido div > *
   color: #12263F !important
@@ -286,13 +304,15 @@
   background-color: #FECB2F   
 
 .bloque-texto-tema2
-  right: -83px
+  right: -65px
+  width: 57%
   background-color: rgba(255, 255, 255, 0) 
   p
     color: $white
   @media (max-width: 500px)  
-    right: 0
+    right: 6%
     top: 29px
+    width: 84%
 
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
     background-color: #FECB2F
@@ -364,7 +384,7 @@
   position: relative
   width: 100% 
   background-image: url("../assets/curso/temas/tema4/tema4-img-01.png") 
-  background-size: contain
+  background-size: 100% 100%
   background-position: left top
   background-repeat: no-repeat
   border-radius: 15px
@@ -391,24 +411,63 @@
 
   .slyder-a__tipo-b
     justify-content: space-between
-    top: -20px  
+    top: 0px  
     @media (max-width:500px) 
-      top: -4px
+      top: -25px
   @media (max-width:500px) 
     background-size: cover
     height: 925px
 
 .margin-top-txt-01
   margin-top: 30px
+  @media (max-width:500px) 
+    margin-left: 20px
 
 .margin-top-img-01
   margin-top: 20px  
 
 .margin-top-txt-02
-  margin-top: -10px   
+  margin-top: -10px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -304px
 
 .margin-top-txt-03
-  margin-top: 20px     
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px
+
+.margin-top-txt-04
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px   
+
+.margin-top-txt-05
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px
+
+.margin-top-txt-06
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px
+
+.margin-top-txt-07
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px
+
+.margin-top-txt-08
+  margin-top: 20px
+  @media (max-width:500px)
+    margin-left: 26px
+    margin-top: -125px
+
 
 .margin-top-img
   margin-top: 10px   
@@ -470,7 +529,7 @@
 
 .tema4-decorativa-04
   position: absolute
-  top: 87.4%
+  top: 83.5%
   right: 45%
   width: 30% 
   z-index: 1

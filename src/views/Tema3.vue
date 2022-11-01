@@ -21,27 +21,27 @@
     figure
       img(src="@/assets/curso/temas/tema3/tema3-img-decorativa-01.svg").tema3-decorativa-02
 
-    ImagenInfograficaB.color-primario
+    ImagenInfograficaB.color-primario.index-dos
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema3/tema3-img-02.png', alt='Texto que describa la imagen')
-      div(x="53.5%" y="8%" tooltip="Ver más")  
+      div(x="53.5%" y="8%" tooltip="Ver más" numero="") 
         .h5.mb-4 Requerimientos de negocio:
         p Estos requerimientos representan los objetivos establecidos por la organización, las necesidades de los usuarios y otros involucrados que están siendo afectados por el problema, sin descuidar las reglas del negocio de la organización. 
 
-      div(x="53.5%" y="25.5%" tooltip="Ver más")
+      div(x="53.5%" y="25.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos de usuario: 
         p Son definiciones simples, en el lenguaje del usuario, que se usan para comunicar la solución de alto nivel a los afectados.
 
-      div(x="53.5%" y="43%" tooltip="Ver más")
+      div(x="53.5%" y="43%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos de sistema: 
         p Son los que definen de manera más clara la solución. Canalizan una o más características solicitadas por los usuarios en soluciones de #[i software] específicas. 
 
-      div(x="78.2%" y="62%" tooltip="Ver más")
+      div(x="78.2%" y="62%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos funcionales: 
         p Especifican lo que el sistema debe hacer, es decir, describen acciones que el sistema debe ser capaz de realizar, sin pensar en las restricciones físicas. Los requerimientos funcionales detallan el comportamiento del sistema. 
 
-      div(x="25.5%" y="62%" tooltip="Ver más")
+      div(x="25.5%" y="62%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos no funcionales: 
         p.mb-4 Especifican únicamente cualidades del sistema o atributos del ambiente del sistema. Constan de las siguientes características:  
         ul.lista-ul--color
@@ -55,7 +55,7 @@
             i.fas.fa-circle.fa-xs
             | El analista debe validar que exista un equilibrio entre estos requerimientos, porque es posible que se puedan producir contradicciones entre varios de estos.        
 
-      div(x="4%" y="85.5%" tooltip="Ver más")
+      div(x="4%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos del producto: 
         p.mb-4 Diferencia el comportamiento del producto, como los requerimientos de desempeño, en cuánta memoria se requiere y la velocidad de ejecución del sistema. Por ejemplo:
         ul.lista-ul--color
@@ -78,7 +78,7 @@
             i.fas.fa-circle.fa-xs
             | Portabilidad         
 
-      div(x="26.5%" y="85.5%" tooltip="Ver más")
+      div(x="26.5%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos organizacionales:
         p.mb-4 Se derivan de procedimientos y de las políticas existentes en la organización del cliente y en la del equipo de desarrollado: estándares en los procesos que recomiendan usar, requerimientos de funcionamiento, como los lenguajes para programar y los requerimientos de entrega que determinan cuándo se entregará el producto final y su respectiva documentación. Por ejemplo:
         ul.lista-ul--color
@@ -92,7 +92,7 @@
             i.fas.fa-circle.fa-xs
             | Requerimientos de estándares.  
 
-      div(x="49%" y="85.5%" tooltip="Ver más")
+      div(x="49%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos externos: 
         p.mb-4 Proceso de desarrollo y los factores externos al sistema. Incluyen los requerimientos de interoperabilidad que establecen la manera en que el sistema se relaciona con otros sistemas de la organización; los requerimientos legales que deben originarse para asegurar que el sistema trabaje dentro de la ley y los requerimientos éticos que son impuestos al sistema para garantizar que será aprobado por el usuario. Por ejemplo:
         ul.lista-ul--color
@@ -294,7 +294,7 @@
                   p Se especifican los posibles estímulos que recibe el sistema y las funciones relacionadas con dicho estímulo. Por jerarquía funcional: si ninguna de las anteriores alternativas resulta de ayuda, la funcionalidad del sistema se especifica como una jerarquía de funciones que comparten entradas, salidas o datos internos. Se detallarán las funciones y las subfunciones del sistema. 
         .col-6.col-lg-4
           figure(data-aos="flip-left")
-            img.l.my-3(src="@/assets/curso/temas/tema3/tema3-img-06.svg", alt="alt")
+            img(src="@/assets/curso/temas/tema3/tema3-img-06.svg", alt="alt")
     separador
     .titulo-segundo.color-acento-contenido
       h2 Priorización de requerimientos 
@@ -343,7 +343,7 @@
     .row.justify-content-center.mb-5
         .col-6.col-lg-4
           figure(data-aos="fade-down-right")
-            img.l.my-3(src="@/assets/curso/temas/tema3/tema3-img-09.svg", alt="alt")
+            img(src="@/assets/curso/temas/tema3/tema3-img-09.svg", alt="alt")
         .col-lg-6
           .acodionA-03
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta__azul")

@@ -128,52 +128,52 @@
     .acodionA-01
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta_azul imagen-tarjeta")
         .row(titulo="Diagrama de máquina de estado")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de máquina de estado: 
             p.ps-4.mb-0 Define los tipos de estados del sistema. Además, muestra las  acciones, sus tipos y cómo resolvería una clase a ellas.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-12.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de actividad")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de actividad:
             p.ps-4.mb-0 Manifiesta el flujo general del sistema en relación con varias actividades. Recibe una instancia del sistema y observa cómo reacciona.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-13.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de casos de uso")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de casos de uso:
             p.ps-4.mb-0 Demuestra cómo el usuario final se comunicaría con el sistema. Además, genera múltiples actores principales, como por ejemplo, los usuarios y su comunicación con elementos puntuales del sistema.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-14.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama secuencial")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama secuencial:
             p.ps-4.mb-0 Especifica el flujo a través de un proceso entre múltiples componentes de manera consecutiva, presentando variables elementos y especificando el flujo que pasa de un componente  a otro.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-15.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de comunicación")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de comunicación:
             p.ps-4.mb-0 manifiesta de forma fácil cómo es la conexión entre las múltiples entidades del sistema.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-16.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de tiempos")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de tiempos:
             p.ps-4.mb-0 muestra la conducta de cualquier tipo de objeto a través de una duración puntual.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-17.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama general interactivo")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama general interactivo:
             p.ps-4.mb-0 Reproduce el flujo de múltiples secuencias interactivas entre sí. Una de ellas es la actividad que está simbolizada por un margen que consta de varias unidades en su interior.
-          .col-md-5
+          .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-18.svg', alt='Texto que describa la imagen')                                                                          
 
