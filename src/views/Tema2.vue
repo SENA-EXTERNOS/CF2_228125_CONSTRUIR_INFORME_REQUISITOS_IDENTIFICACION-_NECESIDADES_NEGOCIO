@@ -58,59 +58,59 @@
     .slyderB_bg_01.px-5.py-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
-              h4.ps-4 Diagrama de clases:
+              h4.padding-1.ps-4 Diagrama de clases:
               p.ps-4.mb-0 estos tipos de diagramas UML se utilizan para proporcionar la representación estática del programa. Una clase tiene tres elementos fundamentales: su comportamiento, su nombre y sus atributos.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-04.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
-              h4.ps-4 Diagrama de componentes: 
+              h4.padding-1.ps-4 Diagrama de componentes: 
               p.ps-4.mb-0 se encarga de desglosar todo el sistema en pequeños componentes, de tal manera que se pueda ver cómo dependen unos de los otros. Este tipo de diagramas constan únicamente de dos partes: las dependencias y los componentes.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-05.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
-              h4.ps-4 Diagrama de despliegue: 
+              h4.padding-1.ps-4 Diagrama de despliegue: 
               p.ps-4.mb-0 está dividido en dos partes principales: los artefactos y los nodos. Los artefactos son los encargados de representar a los clientes o los esquemas, y por otro lado, los nodos son los que representan el servidor de la base de datos.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-06.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="04")
-              h4.ps-4 Diagrama de objetos:
+              h4.padding-1.ps-4 Diagrama de objetos:
               p.ps-4.mb-0 presenta múltiples objetos en cada enlace. Cada entidad consta de su grupo de características y un nombre definido de objetos.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-07.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="05")
-              h4.ps-4 Diagrama de paquetes:
+              h4.padding-1.ps-4 Diagrama de paquetes:
               p.ps-4.mb-0 provee una manifestación de un sistema con sus respectivos módulos y los subsistemas que este conlleva de más alto nivel.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-08.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="06")
-              h4.ps-4 Diagrama de perfil:
+              h4.padding-1.ps-4 Diagrama de perfil:
               p.ps-4.mb-0 se utiliza para mostrar la meta configurada del sistema. Además, puede generar conexiones entre los elementos de un perfil y diferentes perfiles.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-09.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-7.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="07")
-              h4.ps-4 Diagrama de la estructura compuesta:
+              h4.padding-1.ps-4 Diagrama de la estructura compuesta:
               p.ps-4.mb-0 se usan para reproducir la configuración interna de una clase.
-          .col-6.col-lg-5
+          .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-10.svg')
 

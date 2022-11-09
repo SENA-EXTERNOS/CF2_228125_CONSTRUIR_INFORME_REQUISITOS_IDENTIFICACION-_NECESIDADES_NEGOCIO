@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Lenguaje unificado de modelado',
       referencia:
-        'Lucid Software Español. (2019). Tutorial - Diagrama de Clases UML',
+        'Lucid Software Español. (2019). <i>Tutorial - Diagrama de Clases UML</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Z0yLerU0g-Q&t=164s',
     },

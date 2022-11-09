@@ -34,7 +34,7 @@
     p.mt-5 Conozcamos algunas de las principales metodologías tradicionales:
 
     TabsC.color-acento-botones
-      .py-3.py-md-4(titulo="Waterfall (cascada)")
+      .py-3.py-md-4(titulo="<i>Waterfall</i> (cascada)")
         .row
           .col-md-7.mt-5.mb-4.mb-md-0
             .row.justify-content-around
@@ -141,11 +141,6 @@
             .row.justify-content-around
               .col-lg-10.mb-lg-0.mt-lg-1
                 p Su principal objetivo es generar un buen ambiente de trabajo con el grupo y que haya una retroalimentación constante del cliente. El trabajo se basa en 12 fases: diseño fácil, pruebas, codificación con estándares y refactorización, propiedad colectiva del código, programación en par, integridad con el cliente, integración continua, entregas semanales, atención al cliente, planificación y entregas frecuentes.
-
-
-
-
-
 
 </template>
 

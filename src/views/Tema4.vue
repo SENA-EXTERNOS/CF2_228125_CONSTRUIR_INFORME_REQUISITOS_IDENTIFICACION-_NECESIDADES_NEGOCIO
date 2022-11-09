@@ -16,7 +16,7 @@
 
     p Las técnicas para analizar los requerimientos expuestas a continuación, parten de la matriz de trazabilidad de requerimientos del proyecto/especificación de requisitos.
 
-    .slyderB_bg_02.px-5.py-4.mb-3
+    .slyderB_bg_02.px-5.py-4.mb-4
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
@@ -38,7 +38,7 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="03").margin-top-txt-03
               h4.ps-4 Modelado del proceso
-              p.ps-4.mb-0 Engloba la creación de diagramas de flujo de procesos a través de los requerimientos del #[i software]. Existen muchas herramientas de modelado de procesos, cada una de ellas con sus propias reglas y símbolos. Los procesos se inician por eventos y pueden incluir actividades manuales, automatizadas o combinación entre ambas; cuando los procesos son grandes y complejos, es necesario desglosarlos en componentes (subprocesos). La relación entre la gerencia de proyectos y los diagramas de flujo es necesaria para el éxito.
+              p.ps-4.mb-0 Engloba la creación de diagramas de flujo de procesos a través de los requerimientos del #[i software]. Existen muchas herramientas de modelado de procesos, cada una de ellas con sus propias reglas y símbolos. Los procesos se inician por eventos y pueden incluir actividades manuales, automatizadas o combinación entre ambas; cuando los procesos son grandes y complejos, es necesario desglosarlos en componentes (subprocesos). La #[b relación entre la gerencia de proyectos y los diagramas de flujo] es necesaria para el éxito.
           .col-6.col-lg-6
             figure.margin-top-img
               img(src='@/assets/curso/temas/tema4/tema4-img-04.svg')
@@ -60,7 +60,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-img-06.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
-            .number(data-number="06").texto-small.margin-top-txt-06
+            .number(data-number="06").margin-top-txt-06
               h4.ps-4 #[i Checklist]
               p.ps-4.mb-0 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[i software]] y que son mostradas de forma escrita. Por ejemplo:
               ul.lista-ul--color.ps-3
@@ -69,7 +69,7 @@
                   | ¿Se han realizado consideraciones de seguridad?
                 li
                   i.fas.fa-circle.fa-xs
-                  |  ¿Se han determinado los requisitos de software y hardware?
+                  p.mb-0 ¿Se han determinado los requisitos de  #[i software] y #[i hardware]?
                 li
                   i.fas.fa-circle.fa-xs
                   |  ¿Se ha agregado el código de referencia para el reconocimiento del requisito en el desglose de requerimientos?
@@ -81,7 +81,7 @@
                   |  ¿Está escrito el requerimiento en un lenguaje claro y conciso?
               p.ps-4.mb-0 La lista de chequeo sirve como marco de trabajo y técnicas para revisar el requerimiento, simplificando su análisis de forma estructurada. Los requerimientos se pueden verificar sobre la definición del alcance o #[b matriz de trazabilidad de requerimientos.]
           .col-6.col-lg-6
-            figure.margin-top-img
+            figure.margin-top-img-1
               img(src='@/assets/curso/temas/tema4/tema4-img-07.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
@@ -91,7 +91,7 @@
               ul.lista-ul--color.ps-3
                 li
                   i.fas.fa-circle.fa-xs
-                  |  Validar un software visualmente para corroborar que las pantallas solicitadas por el cliente se encuentran incluidas en el desarrollo.
+                  p.mb-0 Validar un #[i software] visualmente para corroborar que las pantallas solicitadas por el cliente se encuentran incluidas en el desarrollo.
                 li
                   i.fas.fa-circle.fa-xs
                   | Verificar la entrada de los campos necesarios para el ingreso de datos.
@@ -108,10 +108,12 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="08").margin-top-txt-08
               h4.ps-4 Prototipos
-              p.ps-4.mb-0 Consiste en generar una representación visual (interfaz gráfica con el usuario) de los requerimientos de #[i software]. Es una herramienta importante para validar con los clientes, usuarios e interesados de un proyecto debido a que el diseño debe corresponder con los requerimientos de software. Además, permite a usuarios y desarrolladores comprender mejor los requerimientos, determinar cuáles son deseables y cuáles indispensables, de esta manera poder identificar los riesgos de forma temprana. La creación de prototipos conlleva a generar mucha comunicación entre usuarios y desarrolladores.
+              p.ps-4.mb-0 Consiste en generar una representación visual (interfaz gráfica con el usuario) de los requerimientos de #[i software]. Es una herramienta importante para validar con los clientes, usuarios e interesados de un proyecto debido a que el diseño debe corresponder con los requerimientos de #[i software]. Además, permite a usuarios y desarrolladores comprender mejor los requerimientos, determinar cuáles son deseables y cuáles indispensables, de esta manera poder identificar los riesgos de forma temprana. La creación de prototipos conlleva a generar mucha comunicación entre usuarios y desarrolladores.
           .col-6.col-lg-6
             figure.margin-top-img
               img(src='@/assets/curso/temas/tema4/tema4-img-09.svg')              
+
+    p.mb-4 Para lograr un proyecto de #[i software] exitoso es necesario comprender el ámbito del trabajo a ejecutar, los riesgos en que pueda llegar a incurrir, los recursos necesarios para su ejecución, las actividades a llevar a cabo, el costo de los presupuestos controlados y un plan a seguir como soporte.
 
     .crd.clr-paleYellow.p-4.mb-3
       .row.justify-content-center.mt-5.mb-5
@@ -192,11 +194,11 @@
                   | Los requisitos son más fáciles de recoger.              
         .col-lg-5
           figure(data-aos="zoom-out-right")
-            img.l.my-3(src="@/assets/curso/temas/tema4/tema4-img-11.svg", alt="alt")
+            img(src="@/assets/curso/temas/tema4/tema4-img-12.svg", alt="alt")
 
     .col-lg-12.mt-5
         .cajon.color-acento-botones1.p-4
-          p Por otro lado, la desventaja de que el software es intangible, ¿qué significa? Que el #[i software] no puede ser tocado, lo que lleva a que, en el caso hipotético de darse algún problema, los efectos de este no son visibles de una manera sencilla, sino que se confían de otros para hacer la documentación oportuna para revisar el progreso. 
+          p Por otro lado, la desventaja de que el #[i software] es intangible, ¿qué significa? Que el #[i software] no puede ser tocado, lo que lleva a que, en el caso hipotético de darse algún problema, los efectos de este no son visibles de una manera sencilla, sino que se confían de otros para hacer la documentación oportuna para revisar el progreso. 
 
     figure
       img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-01.svg').tema4-decorativa-03

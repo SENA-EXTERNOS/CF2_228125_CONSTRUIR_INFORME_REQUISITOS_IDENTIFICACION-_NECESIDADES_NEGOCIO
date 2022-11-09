@@ -107,10 +107,7 @@
             | Interoperabilidad.  
     separador
     .titulo-segundo.color-acento-contenido
-      h2 Especificación de Requisitos del Software (ERS) 
-
-    p.mb-4 Ahora estudiemos los diagramas UML de comportamiento, los cuales determinan la funcionalidad general de cada unidad y el comportamiento del sistema. Además, algunos de estos diagramas manifiestan también el flujo de información y control en el sistema.
-    p.mb-4 Entre ellos podemos encontrar:  
+      h2 Especificación de Requisitos del #[i Software] (ERS) 
 
     .row.justify-content-around.aling-items-center.mt-5.mb-5
       .col-12
