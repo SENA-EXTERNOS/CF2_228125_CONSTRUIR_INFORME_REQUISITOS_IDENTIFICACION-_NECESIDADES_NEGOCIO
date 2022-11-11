@@ -225,7 +225,7 @@ export default {
       referencia:
         'Pressman, R. (s.f.).<i>Ingeniería del software. Un enfoque práctico</i>',
       link:
-        'http://cotana.informatica.edu.bo/downloads/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF',
+        'https://tesuva.edu.co/phocadownload/Ingenieria_del_Software._Un_Enfoque_Practico.pdf',
     },
     {
       referencia:
