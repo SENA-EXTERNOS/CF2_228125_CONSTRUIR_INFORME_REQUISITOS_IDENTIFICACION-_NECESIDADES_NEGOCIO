@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="536" height="344" viewBox="0 0 536 344">
+  <defs>
+    <filter id="Rectángulo_300539" x="0" y="0" width="536" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_897736" data-name="Grupo 897736" transform="translate(6627 8323)">
+    <g id="Grupo_894053" data-name="Grupo 894053" transform="translate(-6882.666 -10895)">
+      <g transform="matrix(1, 0, 0, 1, 255.67, 2572)" filter="url(#Rectángulo_300539)">
+        <rect id="Rectángulo_300539-2" data-name="Rectángulo 300539" width="518" height="326" rx="20" transform="translate(9 6)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_894455" data-name="Grupo 894455" transform="translate(-7468 -11783.414)">
+      <g id="Grupo_894454" data-name="Grupo 894454" transform="translate(7464.413 11413.863)">
+        <path id="Trazado_113746" data-name="Trazado 113746" d="M-2058.674-64.451s-3.766-13.558,11.3-14.311c25.588-1.28,20.337,39.919-4.159,42.179-42.6,3.93-47.059-64.022-.361-70.048,56.028-7.229,75.693,91.336.753,97.917-69.915,6.139-93.711-118.945,0-125.032,104.351-6.779,97.261,152.452,0,153.653-122.019,1.506-119.006-179.263.754-183.029,130.993-4.119,146.122,198.846-.754,208.638-79.1,5.273-127.811-68.382-127.811-107.353h37.184" transform="translate(-4302.501 -7722.83)" fill="#fecb2f"/>
+        <path id="Trazado_113747" data-name="Trazado 113747" d="M-2029.757-42.063s-3.766-13.558,11.3-14.311c25.588-1.28,20.337,39.919-4.158,42.179-42.6,3.93-47.059-64.022-.361-70.048,56.028-7.229,75.693,91.336.753,97.917-69.915,6.139-93.711-118.945,0-125.032,104.351-6.779,97.261,152.452,0,153.653-45.456.561-85.908-26.918-90.061-81.278-.074-.208,29.328.208,29.256,0" transform="translate(-4331.418 -7745.218)" fill="#ef3c79"/>
+        <path id="Trazado_113748" data-name="Trazado 113748" d="M-2007.348-21.422s-3.766-13.558,11.3-14.311c25.589-1.28,20.337,39.919-4.158,42.179-42.6,3.93-47.059-64.022-.361-70.048,56.028-7.229,75.693,91.336.753,97.917-26.327,2.312-55.709-16.605-60.8-53.223-.262-.671,27.449.67,27.18,0" transform="translate(-4353.827 -7765.859)" fill="#0b5999"/>
+        <path id="Trazado_113755" data-name="Trazado 113755" d="M-1986.671,2.46s-3.766-15.824,11.3-16.577c25.588-1.28,20.337,39.919-4.158,42.179-15.575,1.437-28.7-7.423-33.421-25.6" transform="translate(-4374.504 -7787.475)" fill="#21cbae"/>
+        <g id="Grupo_108521" data-name="Grupo 108521" transform="translate(-6416.577 -7764.769) rotate(-25)">
+          <g id="Grupo_108520" data-name="Grupo 108520" transform="translate(0 0)">
+            <path id="Trazado_113759" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <g id="Grupo_894450" data-name="Grupo 894450" transform="translate(-6244.744 -7753.908) rotate(-169)">
+          <g id="Grupo_108520-2" data-name="Grupo 108520">
+            <path id="Trazado_113759-2" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <g id="Grupo_894449" data-name="Grupo 894449" transform="matrix(0.996, -0.087, 0.087, 0.996, -6488.907, -7784.445)">
+          <g id="Grupo_108520-3" data-name="Grupo 108520">
+            <path id="Trazado_113759-3" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <g id="Grupo_894451" data-name="Grupo 894451" transform="matrix(-0.559, -0.829, 0.829, -0.559, -6310.998, -7707.32)">
+          <g id="Grupo_108520-4" data-name="Grupo 108520" transform="translate(0 0)">
+            <path id="Trazado_113759-4" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <g id="Grupo_894452" data-name="Grupo 894452" transform="matrix(-0.974, 0.225, -0.225, -0.974, -6296.913, -7786.376)">
+          <g id="Grupo_108520-5" data-name="Grupo 108520" transform="translate(0 0)">
+            <path id="Trazado_113759-5" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <g id="Grupo_894453" data-name="Grupo 894453" transform="translate(-6326.425 -7862.254) rotate(95)">
+          <g id="Grupo_108520-6" data-name="Grupo 108520" transform="translate(0 0)">
+            <path id="Trazado_113759-6" data-name="Trazado 113759" d="M7.653,0c1.783,4.646,4.8,10.4,7.969,13.953L7.778,11.214,0,14.127C3.087,10.5,5.976,4.684,7.653,0Z" fill="#1d1d1b"/>
+          </g>
+        </g>
+        <line id="Línea_142" data-name="Línea 142" x2="304.175" transform="translate(-6502.5 -7784.672)" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Línea_143" data-name="Línea 143" y2="288.101" transform="translate(-6350.179 -7928.5)" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_113764" data-name="Trazado 113764" d="M-2058.165-62.819s-3.552-15.19,11.512-15.943c25.588-1.28,20.337,39.919-4.159,42.179-42.6,3.93-47.059-64.022-.361-70.048,56.028-7.229,75.693,91.336.753,97.917-69.915,6.139-93.711-118.945,0-125.032,104.351-6.779,97.261,152.452,0,153.653-122.019,1.506-119.006-179.263.754-183.029,130.993-4.119,146.122,198.846-.754,208.638-80.342,5.356-122.9-67.25-126.867-97.639" transform="translate(-4303.225 -7722.83)" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <text id="Análisis" transform="translate(991 3534.413)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-28.555" y="0">Análisis</tspan></text>
+      <text id="Planeamiento" transform="translate(991 3748.413)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-49.625" y="0">Planeamiento</tspan></text>
+      <text id="Desarrollo" transform="translate(1238 3748.413)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.91" y="0">Desarrollo</tspan></text>
+      <text id="Evaluación" transform="translate(1238 3534.413)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.855" y="0">Evaluación</tspan></text>
+    </g>
+  </g>
+</svg>

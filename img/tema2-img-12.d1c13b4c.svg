@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="458" height="319" viewBox="0 0 458 319">
+  <defs>
+    <filter id="Rectángulo_299086" x="0" y="0" width="458" height="319" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_897737" data-name="Grupo 897737" transform="translate(-877 -6078)">
+    <g id="Grupo_894216" data-name="Grupo 894216" transform="translate(886 6082)">
+      <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Rectángulo_299086)">
+        <rect id="Rectángulo_299086-2" data-name="Rectángulo 299086" width="440" height="301" rx="10" transform="translate(9 4)" fill="#fdfdfd"/>
+      </g>
+    </g>
+    <g id="Grupo_894916" data-name="Grupo 894916" transform="translate(4860.667 11118.609)">
+      <g id="Grupo_894913" data-name="Grupo 894913" transform="translate(-3870.982 -4926.917)">
+        <line id="Línea_144" data-name="Línea 144" x2="12.479" y2="0.358" transform="translate(0 0.183)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <line id="Línea_145" data-name="Línea 145" x1="77.667" transform="translate(9.233 44.362)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <line id="Línea_146" data-name="Línea 146" y2="45.443" transform="translate(10.856 0)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <path id="Polígono_5" data-name="Polígono 5" d="M4.213,0,8.425,8.879H0Z" transform="matrix(0.017, 1, -1, 0.017, 93.987, 39.493)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_894914" data-name="Grupo 894914" transform="translate(-3718.42 -4871.735)">
+        <line id="Línea_144-2" data-name="Línea 144" x2="12.479" y2="0.358" transform="translate(0 0.183)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <line id="Línea_145-2" data-name="Línea 145" x1="77.667" transform="translate(9.233 44.362)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <line id="Línea_146-2" data-name="Línea 146" y2="45.443" transform="translate(10.856 0)" fill="none" stroke="#12263f" stroke-width="3"/>
+        <path id="Polígono_5-2" data-name="Polígono 5" d="M4.213,0,8.425,8.879H0Z" transform="matrix(0.017, 1, -1, 0.017, 93.987, 39.493)" fill="#12263f"/>
+      </g>
+      <g id="Rectángulo_301194" data-name="Rectángulo 301194" transform="translate(-3924 -4961)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="4">
+        <rect width="132" height="47" rx="5" stroke="none"/>
+        <rect x="2" y="2" width="128" height="43" rx="3" fill="none"/>
+      </g>
+      <g id="Rectángulo_301474" data-name="Rectángulo 301474" transform="translate(-3771 -4906)" fill="#e9eef4" stroke="#0b5999" stroke-linecap="round" stroke-width="4">
+        <rect width="132" height="47" rx="5" stroke="none"/>
+        <rect x="2" y="2" width="128" height="43" rx="3" fill="none"/>
+      </g>
+      <g id="Grupo_894915" data-name="Grupo 894915" transform="translate(-3616.711 -4842.597)">
+        <g id="Grupo_879874" data-name="Grupo 879874" transform="translate(0 0)">
+          <path id="Trazado_604114" data-name="Trazado 604114" d="M1367.268,2932.133a12.743,12.743,0,1,1-12.743-12.743A12.744,12.744,0,0,1,1367.268,2932.133Z" transform="translate(-1338.79 -2916.398)" fill="#0b5999" stroke="#e9eef4" stroke-width="2"/>
+          <path id="Trazado_604115" data-name="Trazado 604115" d="M1349.972,2943.268a15.689,15.689,0,1,1,15.689-15.689A15.707,15.707,0,0,1,1349.972,2943.268Zm0-30.585a14.9,14.9,0,1,0,14.9,14.9A14.914,14.914,0,0,0,1349.972,2912.683Z" transform="translate(-1334.283 -2911.891)" fill="#0b5999" stroke="#0b5999" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
