@@ -9,7 +9,7 @@
 
     .tarjeta--container.row.mb-5.mt-5
       .col-md.tarjeta.color--secundario.p-5  
-        p(data-aos="fade-left") Continuemos con los lenguajes unificados de modelado (UML) , los cuales son una serie de normas y estándares que dicen cómo se debe representar algo de la vida real a un sistema de cómputo, sea a través de diagramas o expresiones computacionales que representan una ecuación matemática. Normalmente son usados por grupos grandes de desarrollo de #[i software] con el objetivo de planificar y documentar cómo se construyen los programas informáticos complejos.  Los UML definen normas para construir muchos tipos de esquemas, no esquemas de un solo tipo.
+        p(data-aos="fade-left") Continuemos con los lenguajes unificados de modelado (UML), los cuales de conforman por una serie de normas y estándares que dicen cómo se debe representar un acto de la vida real, en un sistema de cómputo, a través de diagramas o expresiones computacionales que representan una ecuación matemática. Normalmente, son usados por grandes grupos de desarrollo de #[em software], con el objetivo de planificar y documentar cómo se construyen los programas informáticos complejos. Los UML definen normas para construir muchos tipos de esquemas, no esquemas de un solo tipo.
       .col-md.tarjeta.color-azul-palido.p-5        
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-01.svg', alt='Texto que describa la imagen')(data-aos="fade-down-right")
@@ -24,7 +24,7 @@
         SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-secundario.tam-tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3 
-              p.text-center.mb-0 Ayuda a analizar el cómo se implementa.
+              p.text-center.mb-0 Ayudan a analizar el cómo se implementa.
           .tarjeta.color-secundario.tam-tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3 
               p.text-center.mb-0 Se facilita la comunicación entre el grupo al existir un lenguaje en común.
@@ -44,7 +44,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          p #[b En los UML se pueden definir dos tipos principales de diagramas y estos a su vez se subdividen, conozcámoslos.]
+          p.fw-bold En los UML se pueden definir dos tipos principales de diagramas y, estos a su vez, se subdividen; conozcámoslos.
 
     figure
       img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-01.svg").tema2-decorativa-01
@@ -60,56 +60,56 @@
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
-              h4.padding-1.ps-4 Diagrama de clases:
-              p.ps-4.mb-0 estos tipos de diagramas UML se utilizan para proporcionar la representación estática del programa. Una clase tiene tres elementos fundamentales: su comportamiento, su nombre y sus atributos.
+              h4.padding-1.ps-4 Diagrama de clases
+              p.ps-4.mb-0 Estos tipos de diagramas UML, se utilizan para proporcionar la representación estática del programa. Una clase tiene tres elementos fundamentales: su comportamiento, su nombre y sus atributos.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-04.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
-              h4.padding-1.ps-4 Diagrama de componentes: 
-              p.ps-4.mb-0 se encarga de desglosar todo el sistema en pequeños componentes, de tal manera que se pueda ver cómo dependen unos de los otros. Este tipo de diagramas constan únicamente de dos partes: las dependencias y los componentes.
+              h4.padding-1.ps-4 Diagrama de componentes
+              p.ps-4.mb-0 Se encarga de desglosar todo el sistema en pequeños componentes, de tal manera que se pueda ver cómo dependen unos de los otros. Este tipo de diagramas constan únicamente de dos partes: las dependencias y los componentes.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-05.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
-              h4.padding-1.ps-4 Diagrama de despliegue: 
-              p.ps-4.mb-0 está dividido en dos partes principales: los artefactos y los nodos. Los artefactos son los encargados de representar a los clientes o los esquemas, y por otro lado, los nodos son los que representan el servidor de la base de datos.
+              h4.padding-1.ps-4 Diagrama de despliegue
+              p.ps-4.mb-0 Está dividido en dos partes principales: los artefactos y los nodos. Los artefactos son los encargados de representar a los clientes o los esquemas y, por otro lado, los nodos son los que representan el servidor de la base de datos.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-06.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="04")
-              h4.padding-1.ps-4 Diagrama de objetos:
-              p.ps-4.mb-0 presenta múltiples objetos en cada enlace. Cada entidad consta de su grupo de características y un nombre definido de objetos.
+              h4.padding-1.ps-4 Diagrama de objetos
+              p.ps-4.mb-0 Presenta múltiples objetos en cada enlace. Cada entidad consta de su grupo de características y un nombre definido de objetos.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-07.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="05")
-              h4.padding-1.ps-4 Diagrama de paquetes:
-              p.ps-4.mb-0 provee una manifestación de un sistema con sus respectivos módulos y los subsistemas que este conlleva de más alto nivel.
+              h4.padding-1.ps-4 Diagrama de paquetes
+              p.ps-4.mb-0 Provee una manifestación de un sistema, con sus respectivos módulos y los subsistemas de más alto nivel, que este conlleva.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-08.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="06")
-              h4.padding-1.ps-4 Diagrama de perfil:
-              p.ps-4.mb-0 se utiliza para mostrar la meta configurada del sistema. Además, puede generar conexiones entre los elementos de un perfil y diferentes perfiles.
+              h4.padding-1.ps-4 Diagrama de perfil
+              p.ps-4.mb-0 Se utiliza para mostrar la meta configurada del sistema. Además, puede generar conexiones entre los elementos de un perfil y diferentes perfiles.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-09.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="07")
-              h4.padding-1.ps-4 Diagrama de la estructura compuesta:
-              p.ps-4.mb-0 se usan para reproducir la configuración interna de una clase.
+              h4.padding-1.ps-4 Diagrama de la estructura compuesta
+              p.ps-4.mb-0 Se usan para reproducir la configuración interna de una clase.
           .col-6.col-lg-7
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-10.svg')

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Construcción del informe de requisitos',
     descripcionCurso:
-      'Esta fase implica determinar los estándares de especificación de requisitos, con el fin de encontrar las mejores técnicas de análisis para una buena realización de resultados en los estudios, de esta manera, mejorar el desarrollo del informe según las especificaciones de requisito de <i>software</i>, y llevar un control de todas las versiones de los informes, de forma organizada y controlada.',
+      'Esta fase implica determinar los estándares de especificación de requisitos, con el fin de encontrar las mejores técnicas de análisis, para una buena realización de resultados en los estudios y, de esta manera, mejorar el desarrollo del informe, según las especificaciones de requisito del <em>software</em>, y llevar un control de todas las versiones de las referencias, de una forma organizada y controlada.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

@@ -9,8 +9,10 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-4 Apreciado aprendiz, bienvenido a este componente formativo donde tendremos la oportunidad de explorar, a través de conceptos, las principales metodologías de desarrollo ágil y sus tipos; así mismo, el buen uso de la documentación en los proyectos ágiles, los tipos de lenguaje modelado, sus técnicas de análisis, características, ventajas y desventajas. Y, por último, tener en cuenta los requisitos de  #[i software] necesarios para un buen desarrollo.
-    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+    p.mb-4 Apreciado aprendiz, bienvenido a este componente formativo, donde tendremos la oportunidad de explorar, a través de diferentes conceptos, las principales metodologías de desarrollo ágil y sus tipos; así mismo, el buen uso de la documentación en los proyectos ágiles, los tipos de lenguaje modelado, sus técnicas de análisis, características, ventajas y desventajas. Y, por último, tener en cuenta los requisitos de #[em software], necesarios para un buen desarrollo.
+      br
+      br
+      |En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
   
     .row(data-aos="zoom-out")
       figure.mb-5.mt-5

@@ -7,25 +7,28 @@
         span 1
       h1 Metodologías de desarrollo de #[i software]
 
-    p.mb-4 Qué mejor manera de empezar el componente formativo que con las metodologías de desarrollo de #[i software] y sus derivados, y así validar cuál metodología se puede abarcar según sus necesidades.
-    p Lo invitamos a ver el siguiente video para conocer qué es una metodología de desarrollo de #[i software].
+    p.mb-4 Qué mejor manera de empezar el componente formativo que con las metodologías de desarrollo de #[em software] y sus derivados, y así validar cuál metodología se puede abarcar, según sus necesidades.
+      br
+      br
+      |Lo invitamos a ver el siguiente video para conocer qué es una metodología de desarrollo de #[em software:]
 
     .row(data-aos="zoom-out")
       figure.mb-5.mt-5
         .video
-         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     .titulo-segundo.color-acento-contenido.index-dos.mt-5
       h2 Tipos de metodología de desarrollo de #[i software] tradicionales
     
-    p.index-dos.mb-5 Son aquellas que #[b no se ajustan nada bien a los cambios] y su comportamiento resalta de forma muy superficial. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[i software] tradicional.
+    p.index-dos.mb-5 Las metodologías tradicionales, son aquellas que #[b no se ajustan nada bien a los cambios] y su comportamiento resalta de forma muy superficial. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[em software] tradicional.
 
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-01.svg").tema1-decorativa-01
 
     .titulo-sexto.color-acento-contenido.index-dos.mb-5
-      h5 Figura 1.
+      h5 Figura 1
+      br
       span #[i Flujo de una metodología de desarrollo de software tradicional]
 
     figure
@@ -39,7 +42,7 @@
           .col-md-7.mt-5.mb-4.mb-md-0
             .row.justify-content-around
               .col-lg-10.mb-lg-0.mt-lg-1
-                p En esta metodología se despliegan las diferentes funciones en etapas separadas y obedeciendo un estricto orden. Antes de cada fase se debe verificar el producto para ver si está listo para pasar a la siguiente etapa. Las especificaciones y requisitos iniciales no están propensos a cambiarse, por lo que no se pueden ver los avances hasta que el proyecto ya esté en gran parte ejecutado.
+                p En esta metodología, las diferentes funciones se despliegan en etapas separadas y obedeciendo a un orden estricto. Antes de cada fase, se debe verificar el producto para confirmar si está listo para continuar con la siguiente etapa. Las especificaciones y requisitos iniciales, no se encuentran propensos a cambiarse, razón por la cual, no se pueden observar los avances hasta que el proyecto ya se encuentre, en gran parte, ejecutado.
         
           .col-md-5.mt-4.mb-4
             figure
@@ -49,7 +52,7 @@
           .col-md-7.mt-5.mb-4.mb-md-0
             .row.justify-content-around
               .col-lg-10.mb-lg-0.mt-lg-1
-                p Se basa en la ejecución de un prototipo de #[i software] que se desarrolla rápidamente para que los usuarios puedan aportar una retroalimentación. Así, se puede corregir lo que está mal e introducir otros requerimientos que sean necesarios. Es un modelo que se basa en el procedimiento de prueba y error para entender las especificidades del producto.
+                p Se basa en la ejecución de un prototipo de #[em software] que se desarrolla rápidamente, para que los usuarios puedan aportar una retroalimentación y, de esta manera, poder corregir lo que se encuentra errado y, de esta manera, introducir los requerimientos que sean necesarios. Es un modelo que se basa en el procedimiento de prueba y error, para entender las especificidades del producto.
         
           .col-md-5.mt-4.mb-4
             figure
@@ -74,12 +77,12 @@
           .col-md-5.mt-4.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-06.svg', alt='Texto que describa la imagen').justifica-imagen-izq             
-      .py-3.py-md-4(titulo="Diseño rápido de aplicaciones(RAD)")
+      .py-3.py-md-4(titulo="Desarrollo rápido de aplicaciones (RAD)")
         .row
           .col-md-7.mt-5.mb-4.mb-md-0
             .row.justify-content-around
               .col-lg-10.mb-lg-0.mt-lg-1
-                p Esta metodología posibilita desarrollar #[i software] de alta calidad en un periodo de tiempo corto. El desarrollo es más flexible pero los costos son mucho más altos, aunque demanda una mayor intervención de los usuarios. Así mismo, el código puede incluir más errores y sus funciones pueden reducirse debido al poco tiempo del que se dispone para desarrollarlas. El objetivo principal es reproducir el menor número posible de veces para alcanzar una aplicación funcional, completa y de forma rápida.
+                p Esta metodología posibilita desarrollar #[em software] de alta calidad en un periodo de tiempo corto. El desarrollo es más flexible pero los costos son mucho más altos, aunque demanda una mayor intervención de los usuarios. Así mismo, el código puede incluir más errores y sus funciones pueden reducirse, debido al poco tiempo del que se dispone para desarrollarlas. El objetivo principal es el de reproducir el menor número posible de veces, para alcanzar una aplicación funcional, completa, y de forma rápida.
         
           .col-md-5.mt-4.mb-4
             figure
@@ -88,13 +91,14 @@
     .titulo-segundo.color-acento-contenido.index-dos.mt-5
       h2 Tipos de metodología de desarrollo de #[i software] ágiles
     
-    p.index-dos.mb-5 Ahora, conozcamos este tipo de metodologías, las cuales se basan en la metodología incremental, en la que en cada ciclo de desarrollo se va construyendo y puliendo el producto final, a la vez que el cliente puede ir conduciendo nuevos requerimientos debido a que puede comprobar cómo avanza el proyecto en tiempo real. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[i software] ágil. 
+    p.index-dos.mb-5 Ahora, conozcamos este tipo de metodologías, las cuales se basan en la metodología incremental, en la que, en cada ciclo de desarrollo, el producto final, se va construyendo y puliendo, a la vez que el cliente puede ir conduciendo nuevos requerimientos, debido a que puede comprobar cómo avanza el proyecto en tiempo real. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[em software] ágil.
 
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg").tema1-decorativa-02
 
     .titulo-sexto.color-acento-contenido.index-dos.mb-5
-      h5 Figura 2.
+      h5 Figura 2
+      br
       span #[i Flujo de una metodología de desarrollo de software ágil]
 
     figure
@@ -140,7 +144,7 @@
           .col-md-7.mt-5.mb-4.mb-md-0
             .row.justify-content-around
               .col-lg-10.mb-lg-0.mt-lg-1
-                p Su principal objetivo es generar un buen ambiente de trabajo con el grupo y que haya una retroalimentación constante del cliente. El trabajo se basa en 12 fases: diseño fácil, pruebas, codificación con estándares y refactorización, propiedad colectiva del código, programación en par, integridad con el cliente, integración continua, entregas semanales, atención al cliente, planificación y entregas frecuentes.
+                p Su principal objetivo es el de generar un buen ambiente de trabajo con el grupo y que exista una retroalimentación constante del cliente. El trabajo se fundamenta en varias fases: diseño fácil, pruebas, codificación con estándares y refactorización, propiedad colectiva del código, programación en par, integridad con el cliente, integración continua, entregas semanales, atención al cliente, planificación, y entregas frecuentes.
 
 </template>
 

@@ -79,8 +79,8 @@
             | Portabilidad         
 
       div(x="26.5%" y="85.5%" tooltip="Ver más" numero="")
-        .h5.mb-4 Requerimientos organizacionales:
-        p.mb-4 Se derivan de procedimientos y de las políticas existentes en la organización del cliente y en la del equipo de desarrollado: estándares en los procesos que recomiendan usar, requerimientos de funcionamiento, como los lenguajes para programar y los requerimientos de entrega que determinan cuándo se entregará el producto final y su respectiva documentación. Por ejemplo:
+        .h5.mb-4 Requerimientos organizacionales
+        p.mb-4 Se derivan de procedimientos y de las políticas existentes en la organización del cliente y en la del equipo de desarrollo, como los estándares en los procesos que se recomienda usar, los requerimientos de funcionamiento, los lenguajes para programar y los requerimientos de entrega que determinan cuándo se entregará el producto final y su respectiva documentación. Por ejemplo:
         ul.lista-ul--color
           li 
             i.fas.fa-circle.fa-xs
@@ -107,7 +107,7 @@
             | Interoperabilidad.  
     separador
     .titulo-segundo.color-acento-contenido
-      h2 Especificación de Requisitos del #[i Software] (ERS) 
+      h2 Especificación de Requisitos del #[em Software] (ERS) 
 
     .row.justify-content-around.aling-items-center.mt-5.mb-5
       .col-12
@@ -116,8 +116,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-img-03.svg')})`}"
           )(data-aos="fade-right")
           .bloque-texto-g__texto.bloque-texto-tema2.p-4
-            p.mb-0 En cuanto al ERS, es un documento que su principal motivo es generar una descripción detallada de un producto de #[i software] a desarrollar, incluyendo su meta; los principales procesos de negocio que serán, como por ejemplo, comportamiento, características soportadas y parámetros clave de rendimiento. Por ende, sirve como una guía para el proceso y control de desarrollo, además, de esta forma se puede mantener a todos en el camino correcto.
-            p Un ERS es generalmente aprobado al final de la fase de ingeniería de requisitos, la fase más temprana en el proceso de desarrollo de #[i software] y contiene requisitos funcionales y no funcionales. 
+            p.mb-0 En cuanto al ERS, es un documento cuyo principal motivo es el de generar una descripción detallada de un producto de #[em software] a desarrollar, incluyendo su objetivo, los principales procesos de negocio, como, por ejemplo, comportamiento, características soportadas y parámetros claves de rendimiento. Por ende, sirve como una guía para el proceso y control del desarrollo.
+              br
+              br
+              |Un ERS es generalmente aprobado al final de la fase de ingeniería de requisitos, la fase más temprana en el proceso de desarrollo de #[em software] y abarca requisitos funcionales y no funcionales.
 
     p.mb-4 No existen dos documentos ERS idénticos porque todos los proyectos de #[i software] son diferentes; algunos usando el modelo de desarrollo en cascada y otros practicando el desarrollo ágil. Sin embargo, es posible destilar los componentes principales de un ERS y crear un esquema aproximado sobre cómo debería ser:
 
@@ -172,41 +174,41 @@
                 li 
                   span.text-bold #[u 3.1] 
                   | #[b #[u Requisitos funcionales]] 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.1.1 
                   | Requisito funcional 1 
-                li 
+                li.fst-italic.ms-5.mb-0 
                   span 3.1.1.1 
                   | Introducción
-                li 
+                li.fst-italic.ms-5.mb-0 
                   span 3.1.1.2 
                   | Entradas 
-                li 
+                li.fst-italic.ms-5.mb-0 
                   span 3.1.1.3
                   | Procesamiento  
-                li 
+                li.fst-italic.ms-5.mb-0 
                   span 3.1.1.4
                   | Salidas    
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.1.2
                   | Requisito funcional 2  
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.1.3
                   | Requisito funcional n                                                      
               ol.lista-ol
                 li 
                   span.text-bold #[u 3.2] 
                   | #[b #[u Requisitos de interfaz externa]] 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.2.1
                   | Interfaces de usuario 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.2.2
                   | Interfaces de hardware 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.2.3
                   | Interfaces de software 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.2.4
                   | Interfaces de comunicación 
             .col-md-6.mb-4.mb-md-0
@@ -218,33 +220,33 @@
                 li 
                   span.text-bold #[u 3.4] 
                   | #[b #[u Requisitos de diseño]] 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.4.1
                   | Acatamiento de estándares
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.4.2
                   | Limitaciones de hardware     
               ol.lista-ol.mb-4
                 li 
                   span.text-bold #[u 3.5] 
                   | #[b #[u Atributos de calidad]] 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.5.1
                   | Seguridad
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.5.2
                   | Mantenimiento 
               ol.lista-ol.mb-4
                 li 
                   span.text-bold #[u 3.6] 
                   | #[b #[u Otros requisitos]] 
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.6.1
                   | Base de datos
                 li 
                   span 3.6.2
                   | Operaciones   
-                li 
+                li.fst-italic.ms-3.mb-0 
                   span 3.6.3
                   | Adaptación de situación                                                                                    
       .col-lg-4
@@ -279,7 +281,7 @@
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta__azul")
               .row(titulo="Por tipo de usuario")
                 .col-md-12.mb-4.mb-md-0
-                  p Distintos usuarios poseen distintos requerimientos. Para cada clase de usuario que exista en la organización, se especificarán los requerimientos funcionales que le afecte o tenga mayor relación con sus tareas.
+                  p Distintos usuarios poseen diferentes requerimientos. Para cada clase de usuario que exista en la organización, se especificarán los requerimientos funcionales que le afecten, o tengan mayor relación con sus tareas.
               .row(titulo="Por objetos")
                 .col-md-12.mb-4.mb-md-0
                   p Son entidades del mundo real que serán mostradas en el sistema. Por cada objeto, se describen sus funciones y sus atributos. Los objetos pueden agruparse en clases. 
@@ -303,9 +305,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-img-07.svg')})`}"
           )
           .bloque-texto-g__texto.bloque-texto-tema4.p-4
-            p.mb-0 #[b Ahora, durante la administración de requisitos de un desarrollo de un producto/servicio, además de ejecutar una correcta escritura de los requisitos y recogida, alcanza una gran importancia generar una priorización de los requisitos. Este tipo de tarea no es nada fácil, debido a que se pueden encontrar intereses diferentes.]
+            p.mb-0 Ahora, durante la administración de requisitos de un desarrollo de un producto/servicio, además de ejecutar una correcta escritura de los requisitos y recogida, es de gran importancia generar una priorización de los requisitos. Este tipo de tarea no es nada fácil, debido a que se pueden encontrar intereses diferentes.
           .bloque-texto-g__texto.bloque-texto-tema4-1.p-4
-            p.mb-0 Una de las técnicas más usadas es conocida como la técnica MoSCoW. La cual da priorización al escoger los requisitos, basada en el hecho de que, aunque todos los requisitos se estiman que son importantes, es primordial destacar aquellos requisitos principales y que aportan un mayor valor agregado al negocio y son considerados indispensables, de forma que el producto/servicio no se puede colocar en producción si incumple alguno de estos requisitos; esto ayudará a guiar el desarrollo de forma más eficiente.
+            p.mb-0 Una de las técnicas más usadas es conocida como la técnica MoSCoW, la cual aporta priorización al escoger los requisitos; basada en el hecho que, aunque se estima que todos los requisitos son importantes, es primordial destacar aquellos requisitos principales y que aportan un mayor valor agregado al negocio, y son considerados indispensables, de forma que el producto/servicio no se puede colocar en producción, si este incumple alguna de las condiciones; esto ayudará a guiar el desarrollo, de una forma más eficiente.
     
     .crd.clr-paleBlue.p-4.mb-4
       p.mb-5.mt-5 #[b La técnica MoSCoW no determina si un requisito es de prioridad alta, media o baja. Esta técnica ayuda a dividir los requisitos en cuatro grandes categorías:]
@@ -346,23 +348,24 @@
             AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta__azul")
               .row(titulo="Obtención de requerimientos")
                 .col-md-12.mb-4.mb-md-0
-                  p Es la fase inicial de cada ciclo. Los analistas de requerimientos deben trabajar en conjunto con el cliente con el fin de encontrar el problema que el sistema debe solucionar. Este proceso lo regula una junta llamada #[i kick] off, donde se debe testimoniar lo siguiente:
+                  p Es la fase inicial de cada ciclo. Los analistas de requerimientos deben trabajar en conjunto con el cliente con el objetivo de encontrar el problema que el sistema debe solucionar. Este proceso lo regula una junta llamada #[em kick off], donde se debe testimoniar lo siguiente:
+
                   ul.lista-ul--color.ps-3
                     li
                       i.fas.fa-circle.fa-xs
-                      | Objetivo del sistema,  fechas provisionales del inicio y fin de la ejecución del proyecto.
+                      | Objetivo del sistema, fechas provisionales del inicio y fin de la ejecución del proyecto.
                     li
                       i.fas.fa-circle.fa-xs
                       | Presentación del grupo de trabajo.
                     li
                       i.fas.fa-circle.fa-xs
-                      |  Presentación de #[i stakeholders].
+                      |  Presentación de #[em stakeholders].
                     li
                       i.fas.fa-circle.fa-xs
                       |  Fechas provisionales de reuniones con el cliente (solo aplica siempre y cuandosea consultoría).
               .row(titulo="Análisis de requerimientos")
                 .col-md-12.mb-4.mb-md-0
-                  p Es el segundo paso, implica analizar, refinar y escudriñar/examinar los requerimientos obtenidos para asegurar que todos los clientes involucrados entienden lo que pidieron; para encontrar errores, omisiones y otras deficiencias.Las actividades a contemplar durante esta etapa son:
+                  p Es el segundo paso, el cual implica analizar, refinar y escudriñar/examinar, los requerimientos obtenidos, para asegurar que todos los clientes involucrados entienden lo que pidieron para encontrar errores, omisiones y otras deficiencias. Las actividades a contemplar durante esta etapa son:
                   ul.lista-ul--color.ps-3
                     li
                       i.fas.fa-circle.fa-xs
@@ -378,7 +381,7 @@
                   p En esta fase se realiza la documentación de los requerimientos concertados con el cliente, en un nivel necesario de detalle; se documenta la descripción de manera completa de las funcionalidades del sistema y las necesidades que serán desarrolladas; de esta manera, también describe el alcance del sistema y la forma como hará sus funciones, definiendo los requerimientos funcionales y no funcionales.
               .row(titulo="Verificación de requerimientos")
                 .col-md-12.mb-4.mb-md-0
-                  p Se recomienda seleccionar varios revisores de diferentes ámbitos disciplinares, puede ser un arquitecto, un analista, etc.; pero debe ser alguien que conozca la ingeniería de requerimientos, con el fin de realizar validaciones al documento, aplicarles pruebas de escritorio, etc.
+                  p Se recomienda seleccionar varios revisores de diferentes ámbitos disciplinares; puede ser un arquitecto, un analista, entre otros, pero debe ser alguien que conozca la ingeniería de requerimientos, con el fin de realizar validaciones al documento, aplicarles pruebas de escritorio, etc.
               .row(titulo="Aceptación de requerimientos")
                 .col-md-12.mb-4.mb-md-0
                   p Este es un proceso donde los analistas implicados se reúnen con el cliente y comienzan a dar una validación de manera formal al documento, de esta manera, comienzan a leer y explicar cada requerimiento; esto con el fin de que todo el grupo comprenda lo que se realizará para cada requerimiento. Una vez que todos estén sincronizados y de acuerdo, se hace la aprobación/aceptación de los detalles de requerimientos, se realiza un acuerdo formal que lo contenga y según las respectivas especificaciones documentadas, será con base en eso que se construya y se pida al cliente una aprobación formal vía correo electrónico o una firma sobre el documento físico.

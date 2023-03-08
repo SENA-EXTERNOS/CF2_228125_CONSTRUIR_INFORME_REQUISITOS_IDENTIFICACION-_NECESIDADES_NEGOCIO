@@ -69,7 +69,7 @@
                   | ¿Se han realizado consideraciones de seguridad?
                 li
                   i.fas.fa-circle.fa-xs
-                  p.mb-0 ¿Se han determinado los requisitos de  #[i software] y #[i hardware]?
+                  p.mb-0 ¿Se han determinado los requisitos de #[em software] y #[em hardware]?
                 li
                   i.fas.fa-circle.fa-xs
                   |  ¿Se ha agregado el código de referencia para el reconocimiento del requisito en el desglose de requerimientos?
@@ -91,7 +91,7 @@
               ul.lista-ul--color.ps-3
                 li
                   i.fas.fa-circle.fa-xs
-                  p.mb-0 Validar un #[i software] visualmente para corroborar que las pantallas solicitadas por el cliente se encuentran incluidas en el desarrollo.
+                  p.mb-0 Validar un #[em software] visualmente, para corroborar que las pantallas solicitadas por el cliente se encuentran incluidas en el desarrollo.
                 li
                   i.fas.fa-circle.fa-xs
                   | Verificar la entrada de los campos necesarios para el ingreso de datos.
@@ -108,12 +108,14 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="08").margin-top-txt-08
               h4.ps-4 Prototipos
-              p.ps-4.mb-0 Consiste en generar una representación visual (interfaz gráfica con el usuario) de los requerimientos de #[i software]. Es una herramienta importante para validar con los clientes, usuarios e interesados de un proyecto debido a que el diseño debe corresponder con los requerimientos de #[i software]. Además, permite a usuarios y desarrolladores comprender mejor los requerimientos, determinar cuáles son deseables y cuáles indispensables, de esta manera poder identificar los riesgos de forma temprana. La creación de prototipos conlleva a generar mucha comunicación entre usuarios y desarrolladores.
+              p.ps-4.mb-0 Consiste en generar una representación visual (interfaz gráfica con el usuario) de los requerimientos de #[em software]. Es una herramienta importante para validar con los clientes, usuarios e interesados en un proyecto, debido a que el diseño debe corresponder con los requerimientos de #[em software]. Además, permite a usuarios y desarrolladores comprender mejor los requerimientos, determinar cuáles son deseables y cuáles indispensables y, de esta manera, poder identificar los riesgos de forma temprana. La creación de prototipos conlleva a generar mucha comunicación entre usuarios y desarrolladores.
           .col-6.col-lg-6
             figure.margin-top-img
-              img(src='@/assets/curso/temas/tema4/tema4-img-09.svg')              
-
-    p.mb-4 Para lograr un proyecto de #[i software] exitoso es necesario comprender el ámbito del trabajo a ejecutar, los riesgos en que pueda llegar a incurrir, los recursos necesarios para su ejecución, las actividades a llevar a cabo, el costo de los presupuestos controlados y un plan a seguir como soporte.
+              img(src='@/assets/curso/temas/tema4/tema4-img-09.svg')   
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 Para lograr un proyecto de #[em software] exitoso es necesario comprender el ámbito del trabajo a ejecutar, los riesgos en que pueda llegar a incurrir, los recursos necesarios para su ejecución, las actividades a llevar a cabo, el costo de los presupuestos controlados y un plan a seguir como soporte.
 
     .crd.clr-paleYellow.p-4.mb-3
       .row.justify-content-center.mt-5.mb-5
@@ -165,7 +167,7 @@
                   p Organizar el requerimiento nos ayuda a saber el grado de necesidad de este, si es crítico o esencial..
               .row(titulo="Verificable")
                 .col-md-12.mb-4.mb-md-0
-                  p Si el requerimiento no se puede validar, entonces, ¿Cómo se puede saber si el requerimiento se cumplió o no? Debe ser posible validarlo, sea por análisis de prueba o demostración e inspección. Cuando se esté generando un requerimiento, se deberán decidir los criterios de aceptación pertenecientes al requerimiento.
+                  p Si el requerimiento no se puede validar, entonces, ¿cómo se puede saber si el requerimiento se cumplió o no? Debe ser posible validarlo, sea por análisis de prueba o demostración e inspección. Cuando se esté generando un requerimiento, se deberán decidir los criterios de aceptación, pertenecientes al requerimiento.
               .row(titulo="Rastreable")
                 .col-md-12.mb-4.mb-md-0
                   p El requerimiento y la funcionalidad se deben ordenar de tal forma que cada función se pueda rastrear, lo que facilita la validación del diseño y las pruebas.
