@@ -9,7 +9,7 @@
 
     .tarjeta--container.row.mb-5.mt-5
       .col-md.tarjeta.color--secundario.p-5  
-        p(data-aos="fade-left") Continuemos con los lenguajes unificados de modelado (UML), los cuales de conforman por una serie de normas y estándares que dicen cómo se debe representar un acto de la vida real, en un sistema de cómputo, a través de diagramas o expresiones computacionales que representan una ecuación matemática. Normalmente, son usados por grandes grupos de desarrollo de #[em software], con el objetivo de planificar y documentar cómo se construyen los programas informáticos complejos. Los UML definen normas para construir muchos tipos de esquemas, no esquemas de un solo tipo.
+        p(data-aos="fade-left" style='font-size: 16px') Continuemos con los lenguajes unificados de modelado (UML), los cuales se conforman por una serie de normas y estándares que dicen cómo se debe representar un acto de la vida real, en un sistema de cómputo, a través de diagramas o expresiones computacionales que representan una ecuación matemática. Normalmente, son usados por grandes grupos de desarrollo de #[em software], con el objetivo de planificar y documentar cómo se construyen los programas informáticos complejos. Los UML definen normas para construir muchos tipos de esquemas, no esquemas de un solo tipo.
       .col-md.tarjeta.color-azul-palido.p-5        
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-01.svg', alt='Texto que describa la imagen')(data-aos="fade-down-right")
@@ -114,7 +114,6 @@
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-10.svg')
 
-    separador
 
     figure
       img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-02.svg").tema2-decorativa-02
@@ -158,14 +157,14 @@
         .row(titulo="Diagrama de comunicación")
           .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de comunicación:
-            p.ps-4.mb-0 manifiesta de forma fácil cómo es la conexión entre las múltiples entidades del sistema.
+            p.ps-4.mb-0 Manifiesta de forma fácil cómo es la conexión entre las múltiples entidades del sistema.
           .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-16.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de tiempos")
           .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de tiempos:
-            p.ps-4.mb-0 muestra la conducta de cualquier tipo de objeto a través de una duración puntual.
+            p.ps-4.mb-0 Muestra la conducta de cualquier tipo de objeto a través de una duración puntual.
           .col-md-5.img-acordionA-1
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-17.svg', alt='Texto que describa la imagen')

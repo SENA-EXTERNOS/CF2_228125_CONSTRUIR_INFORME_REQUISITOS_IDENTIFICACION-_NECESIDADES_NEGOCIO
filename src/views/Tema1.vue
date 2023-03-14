@@ -17,11 +17,10 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    separador
     .titulo-segundo.color-acento-contenido.index-dos.mt-5
       h2 Tipos de metodología de desarrollo de #[i software] tradicionales
     
-    p.index-dos.mb-5 Las metodologías tradicionales, son aquellas que #[b no se ajustan nada bien a los cambios] y su comportamiento resalta de forma muy superficial. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[em software] tradicional.
+    p.index-dos.mb-5 Las metodologías tradicionales son aquellas que #[b no se ajustan nada bien a los cambios] y su comportamiento resalta de forma muy superficial. La siguiente imagen presenta el flujo de una metodología de desarrollo de #[em software] tradicional.
 
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-01.svg").tema1-decorativa-01

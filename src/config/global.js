@@ -115,28 +115,28 @@ export default {
     {
       tema: 'Metodologías de desarrollo de <i>software</i>',
       referencia:
-        'OS Infor. (2019).<i>Metodologías de desarrollo de software - Análisis y diseño</i>.',
+        'OS Infor. (2019). <em>Metodologías de desarrollo de software – Análisis y diseño</em> (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5tyU_h69F-s',
     },
     {
       tema: 'Lenguaje unificado de modelado',
       referencia:
-        'Lucid Software Español. (2019). <i>Tutorial - Diagrama de Clases UML</i>',
+        'Lucid Software Español. (2019). <em>Tutorial – Diagrama de Clases UML</em> (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Z0yLerU0g-Q&t=164s',
     },
     {
       tema: 'Requerimientos de <i>software</i>',
       referencia:
-        'Ingeniería de Software de Élite. (2020). <i>01-Ingeniería de Requerimientos ¿Qué son los requerimientos de software?</i>',
+        'Ingeniería de Software de Élite. (2020). <em>01-Ingeniería de Requerimientos ¿Qué son los requerimientos de software?</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Hedi-Qobgbc',
     },
     {
       tema: 'Técnicas de documentación de requerimientos en proyectos ERS',
       referencia:
-        'Varon, A. (2021).<i>Como crear un documento de Especificación de Requerimientos de Software</i>',
+        'Varon, A. (2021). <em>Como crear un documento de Especificación de Requerimientos de Software</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=AotyBHVKp8I',
     },
@@ -211,25 +211,25 @@ export default {
         'https://repository.unab.edu.co/bitstream/handle/20.500.12749/3419/2017_Tesis_Lopez_Caballero_Cesar_Augusto.pdf?sequence=1',
     },
     {
-      referencia: 'Marijo TM. (2016).<i>Diagrama de despliegue</i>',
+      referencia: 'Marijo TM. (2016). <em>Diagrama de despliegue.</em> <br>',
       link:
         'https://commons.wikimedia.org/wiki/File:Diagrama-de-despliegue.jpg',
     },
     {
       referencia:
-        'Microsoft. (2021).<i>Crear un diagrama de comunicación UML</i>.',
+        'Microsoft. (2021). <em>Crear un diagrama de comunicación UML.</em><br> ',
       link:
         'https://support.microsoft.com/es-es/office/crear-un-diagrama-de-comunicaci%C3%B3n-uml-911956f4-5f19-4a58-97a3-bb14110a5ed1',
     },
     {
       referencia:
-        'Pressman, R. (s.f.).<i>Ingeniería del software. Un enfoque práctico</i>',
+        'Pressman, R. (s.f.). <em>Ingeniería del software. Un enfoque práctico.</em><br>',
       link:
         'https://tesuva.edu.co/phocadownload/Ingenieria_del_Software._Un_Enfoque_Practico.pdf',
     },
     {
       referencia:
-        'Sarmiento, P. y Hernández, D. (2017).<i>Metodología para la optimización de los procesos de recolección de información y análisis en la etapa de especificación de requerimientos de software.</i> (Trabajo final, Universidad Distrital Francisco José de Caldas). Repositorio Universidad Distrital.',
+        'Sarmiento, P. y Hernández, D. (2017). <em>Metodología para la optimización de los procesos de recolección de información y análisis en la etapa de especificación de requerimientos de software.</em> (Trabajo final, Universidad Distrital Francisco José de Caldas). Repositorio Universidad Distrital. ',
       link:
         'https://repository.udistrital.edu.co/bitstream/handle/11349/7804/METODOLOG%C3%8DA%20PARA%20LA%20OPTIMIZACI%C3%93N%20DE%20LOS%20PROCESOS%20DE%20RECOLECCI%C3%93N%20DE%20INFORMACI%C3%93N%20Y%20AN%C3%81LISIS%20EN%20LA%20ETAPA%20DE%20ESPECIFICACI%C3%93N%20DE%20REQUERIMIENTOS%20DE%20SOFTWARE.pdf?sequence=1&isAllowed=y',
     },
@@ -238,12 +238,12 @@ export default {
       link: 'https://fr.wikipedia.org/wiki/Fichier:UmlProfildiagramm-1.svg',
     },
     {
-      referencia: 'Wilfredor. (2010). <i>Diagrama de clases</i>',
+      referencia: 'Wilfredor. (2010). <em>Diagrama de clases.</em><br> ',
       link: 'https://commons.wikimedia.org/wiki/File:Diagrama_de_clases.svg',
     },
     {
       referencia:
-        'Yohandry14. (2012).<i>Ejemplo de diagrama de componentes</i>.',
+        'Yohandry14. (2012).<i>Ejemplo de diagrama de componentes</i>.<br>',
       link:
         'https://commons.wikimedia.org/wiki/File:Ejemplo_de_diagrama_de_componentes.png',
     },

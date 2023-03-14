@@ -10,7 +10,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-botones.mt-5
           h2 Construcción del informe de requisitos
-        p.mb-5 Evaluar los conocimientos adquiridos durante el estudio del componente formativo.
+        p.mb-5 Apreciado aprendiz: a continuación, encontrará una serie de preguntas que deberá resolver con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
         .tarjeta.actividad.p-3.mt-5
           .row.justify-content-around.align-items-center           
             .col-sm.mb-3.mb-sm-0

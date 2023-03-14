@@ -62,7 +62,7 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="06").margin-top-txt-06
               h4.ps-4 #[i Checklist]
-              p.ps-4.mb-0 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[i software]] y que son mostradas de forma escrita. Por ejemplo:
+              p.ps-4.mb-3 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[i software]] y que son mostradas de forma escrita. Por ejemplo:
               ul.lista-ul--color.ps-3
                 li
                   i.fas.fa-circle.fa-xs

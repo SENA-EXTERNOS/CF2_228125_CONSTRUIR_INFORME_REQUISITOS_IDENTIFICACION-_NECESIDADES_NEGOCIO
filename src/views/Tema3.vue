@@ -20,28 +20,27 @@
 
     figure
       img(src="@/assets/curso/temas/tema3/tema3-img-decorativa-01.svg").tema3-decorativa-02
-
-    ImagenInfograficaB.color-primario.index-dos
+    ImagenInfografica.color-primario
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema3/tema3-img-02.png', alt='Texto que describa la imagen')
-      div(x="53.5%" y="8%" tooltip="Ver más" numero="") 
+      .tarjeta.color-acento-contenido.p-3(x="53.5%" y="8%" tooltip="Ver más" numero="") 
         .h5.mb-4 Requerimientos de negocio:
         p Estos requerimientos representan los objetivos establecidos por la organización, las necesidades de los usuarios y otros involucrados que están siendo afectados por el problema, sin descuidar las reglas del negocio de la organización. 
 
-      div(x="53.5%" y="25.5%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="53.5%" y="25.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos de usuario: 
         p Son definiciones simples, en el lenguaje del usuario, que se usan para comunicar la solución de alto nivel a los afectados.
 
-      div(x="53.5%" y="43%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="53.5%" y="43%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos de sistema: 
         p Son los que definen de manera más clara la solución. Canalizan una o más características solicitadas por los usuarios en soluciones de #[i software] específicas. 
 
-      div(x="78.2%" y="62%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="78.2%" y="62%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos funcionales: 
         p Especifican lo que el sistema debe hacer, es decir, describen acciones que el sistema debe ser capaz de realizar, sin pensar en las restricciones físicas. Los requerimientos funcionales detallan el comportamiento del sistema. 
 
-      div(x="25.5%" y="62%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="25.5%" y="62%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos no funcionales: 
         p.mb-4 Especifican únicamente cualidades del sistema o atributos del ambiente del sistema. Constan de las siguientes características:  
         ul.lista-ul--color
@@ -55,7 +54,7 @@
             i.fas.fa-circle.fa-xs
             | El analista debe validar que exista un equilibrio entre estos requerimientos, porque es posible que se puedan producir contradicciones entre varios de estos.        
 
-      div(x="4%" y="85.5%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="4%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos del producto: 
         p.mb-4 Diferencia el comportamiento del producto, como los requerimientos de desempeño, en cuánta memoria se requiere y la velocidad de ejecución del sistema. Por ejemplo:
         ul.lista-ul--color
@@ -78,7 +77,7 @@
             i.fas.fa-circle.fa-xs
             | Portabilidad         
 
-      div(x="26.5%" y="85.5%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="26.5%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos organizacionales
         p.mb-4 Se derivan de procedimientos y de las políticas existentes en la organización del cliente y en la del equipo de desarrollo, como los estándares en los procesos que se recomienda usar, los requerimientos de funcionamiento, los lenguajes para programar y los requerimientos de entrega que determinan cuándo se entregará el producto final y su respectiva documentación. Por ejemplo:
         ul.lista-ul--color
@@ -92,7 +91,7 @@
             i.fas.fa-circle.fa-xs
             | Requerimientos de estándares.  
 
-      div(x="49%" y="85.5%" tooltip="Ver más" numero="")
+      .tarjeta.color-acento-contenido.p-3(x="49%" y="85.5%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos externos: 
         p.mb-4 Proceso de desarrollo y los factores externos al sistema. Incluyen los requerimientos de interoperabilidad que establecen la manera en que el sistema se relaciona con otros sistemas de la organización; los requerimientos legales que deben originarse para asegurar que el sistema trabaje dentro de la ley y los requerimientos éticos que son impuestos al sistema para garantizar que será aprobado por el usuario. Por ejemplo:
         ul.lista-ul--color
@@ -105,7 +104,7 @@
           li 
             i.fas.fa-circle.fa-xs
             | Interoperabilidad.  
-    separador
+    
     .titulo-segundo.color-acento-contenido
       h2 Especificación de Requisitos del #[em Software] (ERS) 
 
@@ -174,42 +173,42 @@
                 li 
                   span.text-bold #[u 3.1] 
                   | #[b #[u Requisitos funcionales]] 
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.1.1 
                   | Requisito funcional 1 
-                li.fst-italic.ms-5.mb-0 
+                li.ms-5.mb-0 
                   span 3.1.1.1 
                   | Introducción
-                li.fst-italic.ms-5.mb-0 
+                li.ms-5.mb-0 
                   span 3.1.1.2 
                   | Entradas 
-                li.fst-italic.ms-5.mb-0 
+                li.ms-5.mb-0 
                   span 3.1.1.3
                   | Procesamiento  
-                li.fst-italic.ms-5.mb-0 
+                li.ms-5.mb-0 
                   span 3.1.1.4
                   | Salidas    
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.1.2
                   | Requisito funcional 2  
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.1.3
                   | Requisito funcional n                                                      
               ol.lista-ol
                 li 
                   span.text-bold #[u 3.2] 
                   | #[b #[u Requisitos de interfaz externa]] 
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.2.1
                   | Interfaces de usuario 
-                li.fst-italic.ms-3.mb-0 
-                  span 3.2.2
-                  | Interfaces de hardware 
-                li.fst-italic.ms-3.mb-0 
-                  span 3.2.3
-                  | Interfaces de software 
-                li.fst-italic.ms-3.mb-0 
-                  span 3.2.4
+                li.ms-3.mb-0 
+                  p.mb-0 3.2.2 
+                    | Interfaces de  #[em hardware] 
+                li.ms-3.mb-0 
+                  p.mb-0 3.2.3 
+                    | Interfaces de  #[em software] 
+                li.ms-3.mb-0 
+                  span 3.2.4 
                   | Interfaces de comunicación 
             .col-md-6.mb-4.mb-md-0
               ol.lista-ol.mb-4
@@ -220,33 +219,33 @@
                 li 
                   span.text-bold #[u 3.4] 
                   | #[b #[u Requisitos de diseño]] 
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.4.1
                   | Acatamiento de estándares
-                li.fst-italic.ms-3.mb-0 
-                  span 3.4.2
-                  | Limitaciones de hardware     
+                li.ms-3.mb-0 
+                  p.mb-0 3.4.2 
+                    | Limitaciones de  #[em hardware]     
               ol.lista-ol.mb-4
                 li 
                   span.text-bold #[u 3.5] 
                   | #[b #[u Atributos de calidad]] 
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.5.1
                   | Seguridad
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.5.2
                   | Mantenimiento 
               ol.lista-ol.mb-4
                 li 
                   span.text-bold #[u 3.6] 
                   | #[b #[u Otros requisitos]] 
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.6.1
                   | Base de datos
-                li 
+                li.ms-3.mb-0 
                   span 3.6.2
                   | Operaciones   
-                li.fst-italic.ms-3.mb-0 
+                li.ms-3.mb-0 
                   span 3.6.3
                   | Adaptación de situación                                                                                    
       .col-lg-4
@@ -260,7 +259,7 @@
         .cajon.color-primario.p-4
           p La primera etapa especifica el producto que se está desarrollando, su audiencia objetivo, su propósito, alcance y uso previsto. La segunda etapa brinda más información sobre las necesidades de los factores y los usuarios que podrían impedir que se cumplan los requisitos establecidos. La última etapa está dedicada a los requisitos específicos, tanto funcionales como no funcionales.
 
-    separador
+    
     .titulo-segundo.color-acento-contenido
       h2 Estándar IEEE 830
 
@@ -294,7 +293,7 @@
         .col-6.col-lg-4
           figure(data-aos="flip-left")
             img(src="@/assets/curso/temas/tema3/tema3-img-06.svg", alt="alt")
-    separador
+    
     .titulo-segundo.color-acento-contenido
       h2 Priorización de requerimientos 
 
@@ -359,10 +358,10 @@
                       | Presentación del grupo de trabajo.
                     li
                       i.fas.fa-circle.fa-xs
-                      |  Presentación de #[em stakeholders].
+                      p.mb-0  Presentación de #[em stakeholders].
                     li
                       i.fas.fa-circle.fa-xs
-                      |  Fechas provisionales de reuniones con el cliente (solo aplica siempre y cuandosea consultoría).
+                      |  Fechas provisionales de reuniones con el cliente (solo aplica siempre y cuando sea consultoría).
               .row(titulo="Análisis de requerimientos")
                 .col-md-12.mb-4.mb-md-0
                   p Es el segundo paso, el cual implica analizar, refinar y escudriñar/examinar, los requerimientos obtenidos, para asegurar que todos los clientes involucrados entienden lo que pidieron para encontrar errores, omisiones y otras deficiencias. Las actividades a contemplar durante esta etapa son:
