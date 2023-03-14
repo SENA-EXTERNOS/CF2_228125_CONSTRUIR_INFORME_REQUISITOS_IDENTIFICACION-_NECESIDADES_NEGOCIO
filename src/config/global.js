@@ -243,7 +243,7 @@ export default {
     },
     {
       referencia:
-        'Yohandry14. (2012).<i>Ejemplo de diagrama de componentes</i>.<br>',
+        'Yohandry14. (2012). <i>Ejemplo de diagrama de componentes</i>.<br>',
       link:
         'https://commons.wikimedia.org/wiki/File:Ejemplo_de_diagrama_de_componentes.png',
     },

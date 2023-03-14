@@ -311,7 +311,7 @@
     .crd.clr-paleBlue.p-4.mb-4
       p.mb-5.mt-5 #[b La técnica MoSCoW no determina si un requisito es de prioridad alta, media o baja. Esta técnica ayuda a dividir los requisitos en cuatro grandes categorías:]
     
-      ImagenInfografica.color-primario
+      ImagenInfografica.color-primario.index-dos
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/temas/tema3/tema3-img-08.svg', alt='Texto que describa la imagen')
