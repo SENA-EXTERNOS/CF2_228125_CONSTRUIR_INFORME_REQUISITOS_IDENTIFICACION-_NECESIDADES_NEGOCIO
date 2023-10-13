@@ -58,61 +58,89 @@
     .slyderB_bg_01.px-5.py-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
-          .col-lg-5.mb-1.mb-lg-0
+          .col-lg-4.mb-1.mb-lg-0
             .number(data-number="01")
               h4.padding-1.ps-4 Diagrama de clases
               p.ps-4.mb-0 Estos tipos de diagramas UML, se utilizan para proporcionar la representación estática del programa. Una clase tiene tres elementos fundamentales: su comportamiento, su nombre y sus atributos.
-          .col-6.col-lg-7
+          .col-6.col-lg-8
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 8
+              br
+              span #[em Ejemplo diagrama de clases]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-04.svg')
+              img(src='@/assets/curso/temas/imgs/cf2-1.png')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
               h4.padding-1.ps-4 Diagrama de componentes
               p.ps-4.mb-0 Se encarga de desglosar todo el sistema en pequeños componentes, de tal manera que se pueda ver cómo dependen unos de los otros. Este tipo de diagramas constan únicamente de dos partes: las dependencias y los componentes.
           .col-6.col-lg-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 9
+              br
+              span #[em Ejemplo diagrama de componentes]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-05.svg')
+              img(src='@/assets/curso/temas/imgs/cf2-2.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
               h4.padding-1.ps-4 Diagrama de despliegue
               p.ps-4.mb-0 Está dividido en dos partes principales: los artefactos y los nodos. Los artefactos son los encargados de representar a los clientes o los esquemas y, por otro lado, los nodos son los que representan el servidor de la base de datos.
           .col-6.col-lg-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 10
+              br
+              span #[em Ejemplo diagrama de despliegue]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-06.svg')
+              img(src='@/assets/curso/temas/imgs/CF2-3.png')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="04")
               h4.padding-1.ps-4 Diagrama de objetos
               p.ps-4.mb-0 Presenta múltiples objetos en cada enlace. Cada entidad consta de su grupo de características y un nombre definido de objetos.
           .col-6.col-lg-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 11
+              br
+              span #[em Ejemplo diagrama de objetos]
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-07.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-5.mb-1.mb-lg-0
+          .col-lg-6.mb-1.mb-lg-0
             .number(data-number="05")
               h4.padding-1.ps-4 Diagrama de paquetes
               p.ps-4.mb-0 Provee una manifestación de un sistema, con sus respectivos módulos y los subsistemas de más alto nivel, que este conlleva.
-          .col-6.col-lg-7
+          .col-6.col-lg-6
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 12
+              br
+              span #[em Ejemplo diagrama de paquetes]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-08.svg')
+              img(src='@/assets/curso/temas/imgs/CF2-4.png')
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="06")
               h4.padding-1.ps-4 Diagrama de perfil
               p.ps-4.mb-0 Se utiliza para mostrar la meta configurada del sistema. Además, puede generar conexiones entre los elementos de un perfil y diferentes perfiles.
           .col-6.col-lg-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 13
+              br
+              span #[em Ejemplo diagrama de perfil]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-09.svg')
+              img(src='@/assets/curso/temas/imgs/cf2-6.png')
         .row.justify-content-center.my-lg-4
-          .col-lg-5.mb-1.mb-lg-0
+          .col-lg-4.mb-1.mb-lg-0
             .number(data-number="07")
               h4.padding-1.ps-4 Diagrama de la estructura compuesta
               p.ps-4.mb-0 Se usan para reproducir la configuración interna de una clase.
-          .col-6.col-lg-7
+          .col-6.col-lg-8
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 14
+              br
+              span #[em Ejemplo diagrama de la estructura compuesta]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-10.svg')
+              img(src='@/assets/curso/temas/imgs/cf2-5.png')
 
 
     figure
@@ -145,22 +173,34 @@
             h4.ps-4 Diagrama de casos de uso:
             p.ps-4.mb-0 Demuestra cómo el usuario final se comunicaría con el sistema. Además, genera múltiples actores principales, como por ejemplo, los usuarios y su comunicación con elementos puntuales del sistema.
           .col-md-5.img-acordionA-1
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 15
+              br
+              span #[em Ejemplo diagrama de casos de uso]
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-14.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama secuencial")
-          .col-md-6.mb-4.mb-md-0.texto-acordionA-1
+          .col-md-4.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama secuencial:
             p.ps-4.mb-0 Especifica el flujo a través de un proceso entre múltiples componentes de manera consecutiva, presentando variables elementos y especificando el flujo que pasa de un componente  a otro.
-          .col-md-5.img-acordionA-1
+          .col-md-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 16
+              br
+              span #[em Ejemplo de diagrama secuencial]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-15.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/imgs/CF2-7.svg', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de comunicación")
           .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de comunicación:
             p.ps-4.mb-0 Manifiesta de forma fácil cómo es la conexión entre las múltiples entidades del sistema.
           .col-md-5.img-acordionA-1
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 17
+              br
+              span #[em Ejemplo diagrama de comunicación]
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-img-16.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/imgs/CF2-8.png', alt='Texto que describa la imagen')
         .row(titulo="Diagrama de tiempos")
           .col-md-6.mb-4.mb-md-0.texto-acordionA-1
             h4.ps-4 Diagrama de tiempos:

@@ -22,8 +22,12 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="01").margin-top-txt-01
               h4.ps-4 Descomposición funcional
-              p.ps-4.mb-0 Consiste en agarrar los requerimientos de #[i software], separarlos en partes y examinarlos individualmente. De ser necesario, se pueden fragmentar en muchas más partes hasta generar un nivel adecuado de detalle. En cierto modo, el proceso es semejante al de la creación de una estructura de desglose de trabajo de un proyecto. En ingeniería de sistemas, la descomposición funcional se basa en definir un sistema en términos funcionales, para luego generar funciones de bajo nivel y formalizar las relaciones con respecto a las funciones de nivel alto. Esto con el fin de dividir un sistema de tal manera que cada componente se pueda explicar sin necesidad de llamar a otro componente. De esta manera, cada parte del sistema consta de funciones independientes que pueden reemplazarse y rehusarse.
+              p.ps-4.mb-0 Consiste en agarrar los requerimientos de #[em software], separarlos en partes y examinarlos individualmente. De ser necesario, se pueden fragmentar en muchas más partes hasta generar un nivel adecuado de detalle. En cierto modo, el proceso es semejante al de la creación de una estructura de desglose de trabajo de un proyecto. En ingeniería de sistemas, la descomposición funcional se basa en definir un sistema en términos funcionales, para luego generar funciones de bajo nivel y formalizar las relaciones con respecto a las funciones de nivel alto. Esto con el fin de dividir un sistema de tal manera que cada componente se pueda explicar sin necesidad de llamar a otro componente. De esta manera, cada parte del sistema consta de funciones independientes que pueden reemplazarse y rehusarse.
           .col-6.col-lg-6
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 18
+              br
+              span #[em Ejemplo de descomposición funcional]
             figure.margin-top-img
               img(src='@/assets/curso/temas/tema4/tema4-img-02.svg')
         .row.justify-content-center.my-lg-4
@@ -38,31 +42,39 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="03").margin-top-txt-03
               h4.ps-4 Modelado del proceso
-              p.ps-4.mb-0 Engloba la creación de diagramas de flujo de procesos a través de los requerimientos del #[i software]. Existen muchas herramientas de modelado de procesos, cada una de ellas con sus propias reglas y símbolos. Los procesos se inician por eventos y pueden incluir actividades manuales, automatizadas o combinación entre ambas; cuando los procesos son grandes y complejos, es necesario desglosarlos en componentes (subprocesos). La #[b relación entre la gerencia de proyectos y los diagramas de flujo] es necesaria para el éxito.
+              p.ps-4.mb-0 Engloba la creación de diagramas de flujo de procesos a través de los requerimientos del #[em software]. Existen muchas herramientas de modelado de procesos, cada una de ellas con sus propias reglas y símbolos. Los procesos se inician por eventos y pueden incluir actividades manuales, automatizadas o combinación entre ambas; cuando los procesos son grandes y complejos, es necesario desglosarlos en componentes (subprocesos). La #[b relación entre la gerencia de proyectos y los diagramas de flujo] es necesaria para el éxito.
           .col-6.col-lg-6
             figure.margin-top-img
               img(src='@/assets/curso/temas/tema4/tema4-img-04.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="04").margin-top-txt-04
               h4.ps-4 Modelado de dominio
-              p.ps-4.mb-0 Consiste en examinar el #[i software] o sistemas relacionados en un dominio, con el fin de descubrir las partes comunes y las partes que los diferencian. Un modelo de dominio abarca diagramas conceptuales que comprenden tanto el comportamiento de un sistema como el de sus datos. Un tipo de modelo de dominio son los diagramas de funcionalidades, que representan de forma “compacta” los sistemas o aplicaciones en términos de sus características. 
-          .col-6.col-lg-6
+              p.ps-4.mb-0 Consiste en examinar el #[em software] o sistemas relacionados en un dominio, con el fin de descubrir las partes comunes y las partes que los diferencian. Un modelo de dominio abarca diagramas conceptuales que comprenden tanto el comportamiento de un sistema como el de sus datos. Un tipo de modelo de dominio son los diagramas de funcionalidades, que representan de forma “compacta” los sistemas o aplicaciones en términos de sus características. 
+          .col-6.col-lg-7
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 19
+              br
+              span #[em Ejemplo de modelado de dominio]
             figure.margin-top-img
-              img(src='@/assets/curso/temas/tema4/tema4-img-05.svg')
+              img(src='@/assets/curso/temas/imgs/CF2-9.png')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="05").margin-top-txt-05
               h4.ps-4 Caso de uso
-              p.ps-4.mb-0 Es una secuencia de intercambio entre un sistema y/o un servicio. Además, es una de las técnicas con mayor expansión para detallar el comportamiento de un sistema. También proporciona un formato estructurado y simple que puede ser divulgado entre desarrolladores y usuarios, además de implementarse para el análisis de los requerimientos de #[i software]. Son importantes en sistemas informáticos basados en la funcionalidad, que se van a ejecutar en sistemas orientados a objetos y con UML. 
+              p.ps-4.mb-0 Es una secuencia de intercambio entre un sistema y/o un servicio. Además, es una de las técnicas con mayor expansión para detallar el comportamiento de un sistema. También proporciona un formato estructurado y simple que puede ser divulgado entre desarrolladores y usuarios, además de implementarse para el análisis de los requerimientos de #[em software]. Son importantes en sistemas informáticos basados en la funcionalidad, que se van a ejecutar en sistemas orientados a objetos y con UML. 
           .col-6.col-lg-6
+            .titulo-sexto.color-acento-contenido.mb-2
+              h5 Figura 20
+              br
+              span #[em Ejemplo de caso de uso]
             figure.margin-top-img
               img(src='@/assets/curso/temas/tema4/tema4-img-06.svg')
         .row.justify-content-center.my-lg-4
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="06").margin-top-txt-06
-              h4.ps-4 #[i Checklist]
-              p.ps-4.mb-3 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[i software]] y que son mostradas de forma escrita. Por ejemplo:
+              h4.ps-4 #[em Checklist]
+              p.ps-4.mb-3 También conocida como la lista de chequeo, consiste en una serie de revisiones/preguntas que se hacen sobre los #[b requerimientos de #[em software]] y que son mostradas de forma escrita. Por ejemplo:
               ul.lista-ul--color.ps-3
                 li
                   i.fas.fa-circle.fa-xs
@@ -87,7 +99,7 @@
           .col-lg-6.mb-1.mb-lg-0
             .number(data-number="07").margin-top-txt-07
               h4.ps-4 Inspección
-              p.ps-4.mb-4 Es la revisión no invasiva de los requerimientos de #[i software]. Por ejemplo:
+              p.ps-4.mb-4 Es la revisión no invasiva de los requerimientos de #[em software]. Por ejemplo:
               ul.lista-ul--color.ps-3
                 li
                   i.fas.fa-circle.fa-xs
@@ -164,7 +176,7 @@
                   p Que se pueda ajustar con el tiempo.         
               .row(titulo="Priorizado")
                 .col-md-12.mb-4.mb-md-0
-                  p Organizar el requerimiento nos ayuda a saber el grado de necesidad de este, si es crítico o esencial..
+                  p Organizar el requerimiento nos ayuda a saber el grado de necesidad de este, si es crítico o esencial.
               .row(titulo="Verificable")
                 .col-md-12.mb-4.mb-md-0
                   p Si el requerimiento no se puede validar, entonces, ¿cómo se puede saber si el requerimiento se cumplió o no? Debe ser posible validarlo, sea por análisis de prueba o demostración e inspección. Cuando se esté generando un requerimiento, se deberán decidir los criterios de aceptación, pertenecientes al requerimiento.
@@ -200,7 +212,7 @@
 
     .col-lg-12.mt-5
         .cajon.color-acento-botones1.p-4
-          p Por otro lado, la desventaja de que el #[i software] es intangible, ¿qué significa? Que el #[i software] no puede ser tocado, lo que lleva a que, en el caso hipotético de darse algún problema, los efectos de este no son visibles de una manera sencilla, sino que se confían de otros para hacer la documentación oportuna para revisar el progreso. 
+          p Por otro lado, la desventaja de que el #[em software] es intangible, ¿qué significa? Que el #[em software] no puede ser tocado, lo que lleva a que, en el caso hipotético de darse algún problema, los efectos de este no son visibles de una manera sencilla, sino que se confían de otros para hacer la documentación oportuna para revisar el progreso. 
 
     figure
       img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-01.svg').tema4-decorativa-03

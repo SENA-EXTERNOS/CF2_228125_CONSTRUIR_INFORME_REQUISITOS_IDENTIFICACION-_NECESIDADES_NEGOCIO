@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Requerimientos de #[i software]
+      h1 Requerimientos de #[em software]
 
     .row.justify-content-around.aling-items-center.mt-5.mb-5
       .col-12
@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-img-01.svg')})`}"
           )(data-aos="fade-down-right")
           .bloque-texto-g__texto.bloque-texto-tema1.p-4(data-aos="fade-left")
-            p.mb-0 Con respecto a los requerimientos de #[i software], podemos decir que son las necesidades que tienen los #[i stakeholders] para requerir que el sistema deba cumplir de manera satisfactoria. En otras palabras, son los que definen las funciones que el sistema será capaz de realizar, describen los cambios que el sistema realiza sobre las entradas para producir salidas. Es de gran importancia que se describa el #[b qué] y no el #[b cómo] se deben hacer estos cambios. Estos requerimientos, con el tiempo que va avanzando el proyecto de #[i software], se van convirtiendo en los algoritmos, la lógica y gran parte del código del sistema.
+            p.mb-0 Con respecto a los requerimientos de #[em software], podemos decir que son las necesidades que tienen los #[em stakeholders] para requerir que el sistema deba cumplir de manera satisfactoria. En otras palabras, son los que definen las funciones que el sistema será capaz de realizar, describen los cambios que el sistema realiza sobre las entradas para producir salidas. Es de gran importancia que se describa el #[b qué] y no el #[b cómo] se deben hacer estos cambios. Estos requerimientos, con el tiempo que va avanzando el proyecto de #[em software], se van convirtiendo en los algoritmos, la lógica y gran parte del código del sistema.
 
     h4.mb-5 Se pueden identificar principalmente tres niveles de requerimientos: 
 
@@ -34,7 +34,7 @@
 
       .tarjeta.color-acento-contenido.p-3(x="53.5%" y="43%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos de sistema: 
-        p Son los que definen de manera más clara la solución. Canalizan una o más características solicitadas por los usuarios en soluciones de #[i software] específicas. 
+        p Son los que definen de manera más clara la solución. Canalizan una o más características solicitadas por los usuarios en soluciones de #[em software] específicas. 
 
       .tarjeta.color-acento-contenido.p-3(x="78.2%" y="62%" tooltip="Ver más" numero="")
         .h5.mb-4 Requerimientos funcionales: 
@@ -120,7 +120,7 @@
               br
               |Un ERS es generalmente aprobado al final de la fase de ingeniería de requisitos, la fase más temprana en el proceso de desarrollo de #[em software] y abarca requisitos funcionales y no funcionales.
 
-    p.mb-4 No existen dos documentos ERS idénticos porque todos los proyectos de #[i software] son diferentes; algunos usando el modelo de desarrollo en cascada y otros practicando el desarrollo ágil. Sin embargo, es posible destilar los componentes principales de un ERS y crear un esquema aproximado sobre cómo debería ser:
+    p.mb-4 No existen dos documentos ERS idénticos porque todos los proyectos de #[em software] son diferentes; algunos usando el modelo de desarrollo en cascada y otros practicando el desarrollo ágil. Sin embargo, es posible destilar los componentes principales de un ERS y crear un esquema aproximado sobre cómo debería ser:
 
     figure
       img(src="@/assets/curso/temas/tema3/tema3-img-decorativa-01.svg").tema3-decorativa-01
@@ -270,7 +270,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/tema3-img-05.svg')})`}"
           )(data-aos="fade-down-right")  
           .bloque-texto-g__texto.bloque-texto-tema3.p-4
-            p.mb-0 ¿Sabía que uno de los aspectos más importantes para la implementación de un #[i software] es tener claros los requerimientos del usuario final? Por esto se ha visto la necesidad de plantear una metodología que describa los métodos y enfoques recomendados para definir un ERS, ayudando a los clientes de #[i software] a detallar con precisión lo que desean obtener y facilitando al mismo tiempo, a todos los proveedores, la comprensión para validar exactamente lo que realmente el cliente desea.
+            p.mb-0 ¿Sabía que uno de los aspectos más importantes para la implementación de un #[em software] es tener claros los requerimientos del usuario final? Por esto se ha visto la necesidad de plantear una metodología que describa los métodos y enfoques recomendados para definir un ERS, ayudando a los clientes de #[em software] a detallar con precisión lo que desean obtener y facilitando al mismo tiempo, a todos los proveedores, la comprensión para validar exactamente lo que realmente el cliente desea.
 
     p.mb-5.mt-5 Este estándar establece que las funciones deberán expresarse como una jerarquía funcional, que a su vez permite organizar esta subsección de múltiples formas y sugiere, entre otras, las siguientes:
 
