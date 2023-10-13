@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF2_228125_CONSTRUIR_INFORME_REQUISITOS_IDENTIFICACION-_NECESIDADES_NEGOCIO/](https://sena-externos.github.io/CF2_228125_CONSTRUIR_INFORME_REQUISITOS_IDENTIFICACION-_NECESIDADES_NEGOCIO/)
 
 #
 
